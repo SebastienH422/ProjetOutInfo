@@ -3,15 +3,16 @@
 # Source de données:
 
 Quantité: (3, 5, 8)
+
 |                                 | xlsx      | tsv      | json     | xml (2 et 3) | csv (1 et 2) | librairie | Autres   |  | Format choisi |
 |---------------------------------|-----------|----------|----------|--------------|--------------|-----------|----------|--|---------------|
 | Taux de chômage                 | X         | X        | X        | X            | X            |           |          |  |               |
 | IPCH                            | X         | X        | X        | X            | X            |           |          |  |               |
 | Historique des actions          |           |          |          |              |              | X         |          |  |               |
-| Taux d'intérêts des dépôts      |           |          |          |              |              |           |          |  |               |
-| Croissance du PIB               | X         |          |          | X            |              |           |          |  |               |
+| Taux d'intérêts des dépôts      | X         |          |          |              | X            |           |          |  |               |
+| Croissance du PIB               | X         |          |          | X            | X            |           |          |  |               |
 | PIB                             | X         |          |          | X            | X            |           |          |  |               |
-| Population                      |           | X        |          |              |              |           |          |  |               |
+| Population                      |           | X        |          | X            |              |           |          |  |               |
 | Matières premières              | X         | X        |          |              | X            |           |          |  |               |
 | Devise                          | X         | X        |          |              | X            |           | sdmx-vsc |  |               |
 | Dette extérieure nette          | X         | X        |          |              | X            |           | sdmx-vsc |  |               |
@@ -59,7 +60,15 @@ Quantité: (3, 5, 8)
 ## Julie
 
 ### Taux d'interêts des dépots
+**peirode** 1960-2024
 **Source**:=https://donnees.banquemondiale.org/indicateur/FR.INR.DPST?most_recent_value_desc=false&view=chart
+**répartition geographique** : mondiale
+
+### Formats disponibles :
+-csv
+-xlm
+-excel
+
 
 ### Croissance du PIB
 **periode** : 1961- 2024\
@@ -67,7 +76,7 @@ Quantité: (3, 5, 8)
 **Source** : https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.KD.ZG?view=chart
 
 ### Formats disponibles :
--cvs
+-csv
 -xlm
 -excel
 
@@ -77,7 +86,7 @@ Quantité: (3, 5, 8)
 **Source** : [https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.KD.ZG?view=chart](https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.CD?year=2022)
 
 ### Formats disponibles :
--cvs
+-csv
 -xlm
 -excel
 
