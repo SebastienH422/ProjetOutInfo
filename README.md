@@ -46,6 +46,36 @@ Quantité: (3, 5, 8)
 - Cours des devises
 - Matières premières
 
+### Taux d'interêts des dépots
+**Source**:=https://donnees.banquemondiale.org/indicateur/FR.INR.DPST?most_recent_value_desc=false&view=chart
+
+### Croissance du PIB
+**periode** : 1961- 2024
+**Répartition géographique**: Mondiale
+**Source** : https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.KD.ZG?view=chart
+
+### Formats disponibles :
+-cvs
+-xlm
+-excel
+
+### PIB
+**periode** : 1961- 2024
+**Répartition géographique**: Mondiale
+**Source** : [https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.KD.ZG?view=chart](https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.CD?year=2022)
+
+### Formats disponibles :
+-cvs
+-xlm
+-excel
+
+### Population
+**periode** :2013 - 2024 
+**Répartition géographique**: MEurom)e
+**Source** : [https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.KD.ZG?view=chart](https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.CD?year=2022)
+
+### Format disponible :
+-tsv
 
 # Essentiel
 Indicateurs géopolitiques: Données sur les conflits, les sanctions économiques, les politiques fiscales et commerciales des grands pays (États-Unis, Chine, etc.).
