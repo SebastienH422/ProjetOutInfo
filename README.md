@@ -8,8 +8,8 @@ Quantité: (3, 5, 8)
 | Taux de chômage                 | X         | X        | X        | X            | X            |           |        |
 | IPCH                            | X         | X        | X        | X            | X            |           |        |
 | Historique des actions          |           |          |          |              |              | X         |        |
-| Taux d'intérêts des dépôts      |           |          |          |              |              |           |        |
-| Croissance du PIB               | X         |          |          | X            |              |           |        |
+| Taux d'intérêts des dépôts      | X         |          |          | X            |   X          |           |        |
+| Croissance du PIB               | X         |          |          | X            |   X          |           |        |
 | PIB                             | X         |          |          | X            |   X          |           |        |
 | Population                      |           | X        |          |              |              |           |        |
 | Matières premières              | X         | X        |          |              | X            |           |        |
