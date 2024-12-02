@@ -3,18 +3,19 @@
 # Source de données:
 
 Quantité: (3, 5, 8)
-|                                 | xlsx      | tsv      | json     | xml (2 et 3) | csv (1 et 2) | librairie | Autres |
-|---------------------------------|-----------|----------|----------|--------------|--------------|-----------|--------|
-| Taux de chômage                 | X         | X        | X        | X            | X            |           |        |
-| IPCH                            | X         | X        | X        | X            | X            |           |        |
-| Historique des actions          |           |          |          |              |              | X         |        |
-| Taux d'intérêts des dépôts      |           |          |          |              |              |           |        |
-| Croissance du PIB               | X         |          |          | X            |              |           |        |
-| PIB                             | X         |          |          | X            |   X          |           |        |
-| Population                      |           | X        |          |              |              |           |        |
-| Matières premières              | X         | X        |          |              | X            |           |        |
-| Devise                          | X         | X        |          |              | X            |           |  sdmx-vsc      |
-| Dette extérieure nette          | X         | X        |          |              | X            |           |  sdmx-vsc      |
+|                                 | xlsx      | tsv      | json     | xml (2 et 3) | csv (1 et 2) | librairie | Autres   |  | Format choisi |
+|---------------------------------|-----------|----------|----------|--------------|--------------|-----------|----------|--|---------------|
+| Taux de chômage                 | X         | X        | X        | X            | X            |           |          |  |               |
+| IPCH                            | X         | X        | X        | X            | X            |           |          |  |               |
+| Historique des actions          |           |          |          |              |              | X         |          |  |               |
+| Taux d'intérêts des dépôts      |           |          |          |              |              |           |          |  |               |
+| Croissance du PIB               | X         |          |          | X            |              |           |          |  |               |
+| PIB                             | X         |          |          | X            | X            |           |          |  |               |
+| Population                      |           | X        |          |              |              |           |          |  |               |
+| Matières premières              | X         | X        |          |              | X            |           |          |  |               |
+| Devise                          | X         | X        |          |              | X            |           | sdmx-vsc |  |               |
+| Dette extérieure nette          | X         | X        |          |              | X            |           | sdmx-vsc |  |               |
+
 
 
 ## Seb
