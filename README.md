@@ -2,6 +2,8 @@
 
 # Source de données:
 
+Quantité: (3, 5, 8)
+
 ## Seb
 
 ### Taux de chômage 
