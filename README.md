@@ -4,16 +4,16 @@
 
 Quantité: (3, 5, 8)
 
-|                                 | xlsx      | tsv      | json     | xml (2 et 3) | csv (1 et 2) | librairie | Autres   |  | Format choisi |
-|---------------------------------|-----------|----------|----------|--------------|--------------|-----------|----------|--|---------------|
-| PIB                             | X         |          |          | X            | X            |           |          |  | csv1          |
-| Taux de chômage                 | X         | X        | X        | X            | X            |           |          |  | xml2          |
-| Taux d'intérêts des dépôts      | X         |          |          | X            | X            |           |          |  | xml3          |
-| IPCH                            | X         | X        | X        | X            | X            |           |          |  | json          |
-| Historique des actions          |           |          |          |              |              | X         |          |  | librairie     |
-| Devise                          | X         | X        |          |              | X            |           | sdmx-scv |  | csv2          |
-| Matières premières              | X         | X        |          |              | X            |           |          |  | tsv           |
-| Dette extérieure nette          | X         | X        |          |              | X            |           | sdmx-scv |  | xlsx          |
+|                                 | xlsx      | tsv      | json     | xml (2 et 3) | csv (1 et 2) | librairie | Autres   |  | Format choisi | Téléchargé par |
+|---------------------------------|-----------|----------|----------|--------------|--------------|-----------|----------|--|---------------|----------------|
+| PIB                             | X         |          |          | X            | X            |           |          |  | csv1          | Julie          |
+| Taux de chômage                 | X         | X        | X        | X            | X            |           |          |  | xml2          | Seb            |
+| Taux d'intérêts des dépôts      | X         |          |          | X            | X            |           |          |  | xml3          | Julie          |
+| IPCH                            | X         | X        | X        | X            | X            |           |          |  | json          | Seb            |
+| Historique des actions          |           |          |          |              |              | X         |          |  | librairie     | Seb            |
+| Devise                          | X         | X        |          |              | X            |           | sdmx-scv |  | csv2          | Julie          |
+| Matières premières              | X         | X        |          |              | X            |           |          |  | tsv           | Julie          |
+| Dette extérieure nette          | X         | X        |          |              | X            |           | sdmx-scv |  | xlsx          | Seb            |
 
 ##### Commentaires
 - **PIB** - Le PIB est également essentiel pour une analyse de l'économie d'un pays. Un PIB croissant est souvent synonyme d'une économie forte, ce qui peut avoir un impact direct sur les actions.
