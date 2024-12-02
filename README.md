@@ -3,6 +3,15 @@
 # Source de données:
 
 Quantité: (3, 5, 8)
+|                                 | xlsx      | tsv      | json     | xml (2 et 3) | csv (1 et 2) | librairie | Autres |
+|---------------------------------|-----------|----------|----------|--------------|--------------|-----------|--------|
+| Taux de chômage                 | disponible| disponible| disponible| disponible   | disponible   |           |        |
+| IPCH                            | disponible| disponible| disponible| disponible   | disponible   |           |        |
+| Historique des actions          |           |          |          |              |              | disponible |        |
+| Taux d'intérêts des dépôts      |           |          |          |              |              |           |        |
+| Croissance du PIB               | disponible|          |          | disponible   |              |           |        |
+| PIB                             | disponible|          |          | disponible   |              |           |        |
+| Population                      |           | disponible|          |              |              |           |        |
 
 ## Seb
 
