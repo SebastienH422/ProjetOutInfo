@@ -57,8 +57,8 @@ Quantité: (3, 5, 8)
 **Source**:=https://donnees.banquemondiale.org/indicateur/FR.INR.DPST?most_recent_value_desc=false&view=chart
 
 ### Croissance du PIB
-**periode** : 1961- 2024
-**Répartition géographique**: Mondiale
+**periode** : 1961- 2024\
+**Répartition géographique**: Mondiale\
 **Source** : https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.KD.ZG?view=chart
 
 ### Formats disponibles :
@@ -67,8 +67,8 @@ Quantité: (3, 5, 8)
 -excel
 
 ### PIB
-**periode** : 1961- 2024
-**Répartition géographique**: Mondiale
+**periode** : 1961- 2024\
+**Répartition géographique**: Mondiale\
 **Source** : [https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.KD.ZG?view=chart](https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.CD?year=2022)
 
 ### Formats disponibles :
@@ -77,8 +77,8 @@ Quantité: (3, 5, 8)
 -excel
 
 ### Population
-**periode** :2013 - 2024 
-**Répartition géographique**:Europe
+**periode** :2013 - 2024 \
+**Répartition géographique**:Europe\
 **Source** :https://ec.europa.eu/eurostat/web/main/data/database 
 
 ### Format disponible :
@@ -88,15 +88,15 @@ Quantité: (3, 5, 8)
  ### formats disponibles 
  - xlsx
  - csv
-**source generale** :https://www.insee.fr/fr/information/3128533?
-**petrol brut brent** : https://www.insee.fr/fr/statistiques/serie/010002091#Telechargement
-**argent** : https://www.insee.fr/fr/statistiques/serie/010002086#Telechargement
-**or** : https://www.insee.fr/fr/statistiques/serie/010002100#Telechargement
+**source generale** :https://www.insee.fr/fr/information/3128533?\
+**petrol brut brent** : https://www.insee.fr/fr/statistiques/serie/010002091#Telechargement\
+**argent** : https://www.insee.fr/fr/statistiques/serie/010002086#Telechargement\
+**or** : https://www.insee.fr/fr/statistiques/serie/010002100#Telechargement\
 **paladium** : https://www.insee.fr/fr/statistiques/serie/010767332#Telechargement
 
 ### ECU/EUR exchange rates versus national currencies
 
-**periode** : 2012 - 2024
+**periode** : 2012 - 2024\
 **Source** : https://ec.europa.eu/eurostat/databrowser/view/tec00033/default/table?lang=en&category=t_ert
 
  ### formats dipsonibles
@@ -105,8 +105,8 @@ Quantité: (3, 5, 8)
  - sdmx-csv
 
 ### Dette exterieure nette 
-**periode**  1995 -2023 
-**Répartition géographique** : europe
+**periode**  1995 -2023 \
+**Répartition géographique** : europe\
 **source** : https://ec.europa.eu/eurostat/databrowser/view/tipsii20/default/table?lang=en&category=tips.tipsed
 
 ### Formats disponibles :
