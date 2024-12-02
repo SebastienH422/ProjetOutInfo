@@ -58,7 +58,15 @@ Quantité: (3, 5, 8)
 ## Julie
 
 ### Taux d'interêts des dépots
+**peirode** 1960-2024
 **Source**:=https://donnees.banquemondiale.org/indicateur/FR.INR.DPST?most_recent_value_desc=false&view=chart
+**répartition geographique** : mondiale
+
+### Formats disponibles :
+-csv
+-xlm
+-excel
+
 
 ### Croissance du PIB
 **periode** : 1961- 2024\
@@ -66,7 +74,7 @@ Quantité: (3, 5, 8)
 **Source** : https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.KD.ZG?view=chart
 
 ### Formats disponibles :
--cvs
+-csv
 -xlm
 -excel
 
@@ -76,7 +84,7 @@ Quantité: (3, 5, 8)
 **Source** : [https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.KD.ZG?view=chart](https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.CD?year=2022)
 
 ### Formats disponibles :
--cvs
+-csv
 -xlm
 -excel
 
