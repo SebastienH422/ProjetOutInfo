@@ -43,8 +43,6 @@ Quantité: (3, 5, 8)
 
 
 ## Julie
-- Cours des devises
-- Matières premières
 
 ### Taux d'interêts des dépots
 **Source**:=https://donnees.banquemondiale.org/indicateur/FR.INR.DPST?most_recent_value_desc=false&view=chart
