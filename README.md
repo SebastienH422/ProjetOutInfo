@@ -71,11 +71,45 @@ Quantité: (3, 5, 8)
 
 ### Population
 **periode** :2013 - 2024 
-**Répartition géographique**: MEurom)e
-**Source** : [https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.KD.ZG?view=chart](https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.CD?year=2022)
+**Répartition géographique**:Europe
+**Source** :https://ec.europa.eu/eurostat/web/main/data/database 
 
 ### Format disponible :
 -tsv
+### Matières premières 
+**periode** :1991 -2024
+ ### formats disponibles 
+ - xlsx
+ - csv
+**source generale** :https://www.insee.fr/fr/information/3128533?
+**petrol brut brent** : https://www.insee.fr/fr/statistiques/serie/010002091#Telechargement
+**argent** : https://www.insee.fr/fr/statistiques/serie/010002086#Telechargement
+**or** : https://www.insee.fr/fr/statistiques/serie/010002100#Telechargement
+**paladium** : https://www.insee.fr/fr/statistiques/serie/010767332#Telechargement
+
+### ECU/EUR exchange rates versus national currencies
+
+**periode** : 2012 - 2024
+**Source** : https://ec.europa.eu/eurostat/databrowser/view/tec00033/default/table?lang=en&category=t_ert
+
+ ### formats dipsonibles
+ - xlsx
+ - tsv
+ - sdmx-csv
+
+### Dette exterieure nette 
+**periode**  1995 -2023 
+**Répartition géographique** : europe
+**source** : https://ec.europa.eu/eurostat/databrowser/view/tipsii20/default/table?lang=en&category=tips.tipsed
+
+### Formats disponibles :
+-xlsx
+-tsv
+-sdmx-csv
+
+
+
+
 
 # Essentiel
 Indicateurs géopolitiques: Données sur les conflits, les sanctions économiques, les politiques fiscales et commerciales des grands pays (États-Unis, Chine, etc.).
