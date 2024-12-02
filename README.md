@@ -6,17 +6,24 @@ Quantité: (3, 5, 8)
 
 |                                 | xlsx      | tsv      | json     | xml (2 et 3) | csv (1 et 2) | librairie | Autres   |  | Format choisi |
 |---------------------------------|-----------|----------|----------|--------------|--------------|-----------|----------|--|---------------|
+| PIB                             | X         |          |          | X            | X            |           |          |  |               |
 | Taux de chômage                 | X         | X        | X        | X            | X            |           |          |  |               |
+| Taux d'intérêts des dépôts      | X         |          |          | X            | X            |           |          |  |               |
 | IPCH                            | X         | X        | X        | X            | X            |           |          |  |               |
 | Historique des actions          |           |          |          |              |              | X         |          |  |               |
-| Taux d'intérêts des dépôts      | X         |          |          | X            | X            |           |          |  |               |
-| Croissance du PIB               | X         |          |          | X            | X            |           |          |  |               |
-| PIB                             | X         |          |          | X            | X            |           |          |  |               |
-| Population                      |           | X        |          |              |              |           |          |  |               |
-| Matières premières              | X         | X        |          |              | X            |           |          |  |               |
 | Devise                          | X         | X        |          |              | X            |           | sdmx-vsc |  |               |
+| Matières premières              | X         | X        |          |              | X            |           |          |  |               |
 | Dette extérieure nette          | X         | X        |          |              | X            |           | sdmx-vsc |  |               |
 
+##### Commentaires
+- **PIB** - Le PIB est également essentiel pour une analyse de l'économie d'un pays. Un PIB croissant est souvent synonyme d'une économie forte, ce qui peut avoir un impact direct sur les actions.
+- **Taux de chômage** - Le taux de chômage est un indicateur important de la santé économique d'un pays. Un faible taux de chômage peut indiquer une économie robuste, ce qui est favorable pour le marché boursier.
+- **Taux d'intérêts des dépôts** - Les taux d'intérêt influencent les investissements dans les actions. Des taux d'intérêt bas peuvent rendre les actions plus attrayantes par rapport aux investissements à faible rendement, comme les dépôts bancaires.
+- **IPCH** (Indice des Prix à la Consommation Harmonisé) - L'inflation est un facteur important à considérer, car elle influence les taux d'intérêt et peut affecter les décisions d'investissement. L'IPCH est un bon indicateur pour analyser l'inflation en Europe.
+- **Historique des actions** - L'historique des actions est essentiel pour analyser les tendances passées et prévoir les évolutions futures des actions. Bien que cela ne soit pas directement un indicateur économique global, il fournit des données clés pour les prévisions.
+- **Devise** - La fluctuation des devises peut avoir un impact significatif sur les actions, surtout pour les sociétés internationales. L'analyse des taux de change est importante pour les prévisions à court et moyen terme.
+- **Matières premières** - Les matières premières, bien qu'elles n'affectent pas directement le marché des actions dans tous les secteurs, sont cruciales pour certaines industries (énergie, métallurgie, etc.), ce qui peut influencer l'économie et, par conséquent, les actions des entreprises concernées.
+- **Dette extérieure nette** - La dette extérieure nette peut signaler la stabilité économique d'un pays. Un niveau élevé de dette extérieure peut poser des risques pour l'économie, influençant ainsi les marchés boursiers.
 
 
 ## Seb
