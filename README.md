@@ -129,7 +129,7 @@ Quantité: (3, 5, 8)
 **periode**  1995 -2023 \
 **Répartition géographique** : europe\
 **source** : https://ec.europa.eu/eurostat/databrowser/view/tipsii20/default/table?lang=en&category=tips.tipsed
-
+**source actuelle** https://ec.europa.eu/eurostat/databrowser/view/sdg_17_40/default/table?lang=fr
 ### Formats disponibles :
 -xlsx
 -tsv
