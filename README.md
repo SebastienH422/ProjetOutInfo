@@ -31,7 +31,7 @@ Quantité: (3, 5, 8)
 ### Taux de chômage 
 **Période**: 2012 - 2023\
 **Répartition géographique**: Europe\
-**Source**: https://ec.europa.eu/eurostat/databrowser/view/tps00203/default/table?lang=fr&category=t_labour.t_employ.t_lfsi.t_une
+**Source**: https://ec.europa.eu/eurostat/databrowser/view/UNE_RT_M__custom_14819582/default/table?lang=fr
 
 ##### Formats disponibles
 - xlsx
