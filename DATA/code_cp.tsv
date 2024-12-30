@@ -1,0 +1,805 @@
+CODE	Label - English	Label - French	Label - German	Standard code	Note (EN only)
+TOTAL	Total	Total	Insgesamt	Y	
+TOT_X_CP041_042	Total except actual rents	Total sauf les loyers réels	Insgesamt ohne tatsächlich gezahlte Mieten	Y	
+CP00_X_042	All items HICP excluding imputed rentals for housing	Ensemble ICPH excluant le loyer d'habitation imputés	Gesamt-HVPI ohne Unterstellte Mieten für Wohnungen	Y	
+CP00	All-items HICP	Ensemble ICPH	Gesamt-HVPI	Y	
+CP01	Food and non-alcoholic beverages	Produits alimentaires et boissons non alcoolisées	Nahrungsmittel und alkoholfreie Getränke	Y	
+CP011	Food	Produits alimentaires	Nahrungsmittel	Y	
+CP0111	Bread and cereals	Pain et céréales	Brot und Getreideerzeugnisse	Y	
+CP01111	Rice	Riz	Reis	Y	
+CP01111A	Long-grain rice (1 kg)	Riz à grains longs (1 kg)	Langkornreis (1 kg)	Y	
+CP01112	Flours and other cereals	Farines et autres céréales	Mehl und anderes Getreide	Y	
+CP01112A	Wheat flour (1 kg)	Farine de blé (1 kg)	Weizenmehl (1 kg)	Y	
+CP01112B	Cornflakes (1 kg)	Flocons de maïs (1 kg)	Cornflakes (1 kg)	Y	
+CP01113	Bread	Pain	Brot	Y	
+CP01113A	White bread, loaf (1 kg)	Pain blanc, miche (1 kg)	Weißbrot, Laib (1 kg)	Y	
+CP01114	Other bakery products	Autres produits de boulangerie	Feingebäck	Y	
+CP01115	Pizza and quiche	Pizza et quiche	Pizza und Quiche	Y	
+CP01115A	Pizza, frozen (500 g)	Pizza surgelée (500 g)	Pizza, gefroren (500 g)	Y	
+CP01116	Pasta products and couscous	Pâtes alimentaires et couscous	Teigwaren und Couscous	Y	
+CP01116A	Pasta, without eggs (1 kg)	Pâtes, sans oeufs (1 kg)	Nudeln, ohne Eier (1 kg)	Y	
+CP01117	Breakfast cereals	Céréales pour petit déjeuner	Frühstücksflocken	Y	
+CP01118	Other cereal products	Autres produits céréaliers	Sonstige Getreideerzeugnisse	Y	
+CP0112	Meat	Viande	Fleisch	Y	
+CP01121	Beef and veal	Boeuf et veau	Rind und Kalb	Y	
+CP01121A	Beef, minced (1 kg)	Boeuf haché (1 kg)	Hackfleisch (Rind) (1 kg)	Y	
+CP01122	Pork	Porc	Schwein	Y	
+CP01122A	Pork, cutlet ("escalope") (1 kg)	Escalope de porc (1 kg)	Schweineschnitzel (1 kg)	Y	
+CP01122B	Pork, loin chop (B2) (1 kg)	Côtelette de porc (1 kg)	Schweinefleisch, Kotelett (1kg)	Y	
+CP01123	Lamb and goat	Agneau et chèvre	Schaf und Ziege	Y	
+CP01124	Poultry	Volaille	Geflügel	Y	
+CP01124A	Whole chicken (1 kg)	Poulet entier (1 kg)	Ganzes Hähnchen (1 kg)	Y	
+CP01124B	Chicken breast, fillets (1 kg)	Filets de poitrine de poulet (1 kg)	Hähnchenbrustfilet (1 kg)	Y	
+CP01125	Other meats	Autres viandes	Sonstiges Fleisch	Y	
+CP01126_01127	Dried, salted or smoked meat and edible meat offal	Viande séchée, salée ou fumée et abats comestibles	Fleisch und eßbare Fleischabfälle, getrocknet, gesalzen oder geräuchert	Y	
+CP01126	Edible offal	Abats comestibles	Eßbare Fleischabfälle	Y	
+CP01127	Dried, salted or smoked meat	Viande séchée, salée ou fumée	Fleisch: getrocknet, gesalzen oder geräuchert	Y	
+CP01127A	Sausage, Frankfurter/Wiener (1 kg)	Saucisse de Francfort/Viennoise (1 kg)	Würstchen, Frankfurter/Wiener (1 kg)	Y	
+CP01127B	Sausage, salami type (1 kg)	Saucisse de type salami (1 kg)	Wurst Typ Salami (1 kg)	Y	
+CP01128	Other meat preparations	Autres préparations à base de viande	Sonstige Fleischzubereitungen	Y	
+CP01128A	Other preserved or processed meat and meat preparations	Autres conserves ou préparations à base de viande	Fleisch und Fleischzubereitungen, anders konserviert oder verarbeitet	Y	
+CP01128B	Other fresh, chilled or frozen edible meat	Autres viandes comestibles fraîches, réfrigérées ou surgelées	Sonstiges frisches, gekühltes oder gefrorenes eßbares Fleisch	Y	
+CP0113	Fish and seafood	Poisson et fruits de mer	Fisch und Meeresfrüchte	Y	
+CP01131_01132	Fresh, chilled or frozen fish	Poisson frais, réfrigéré ou surgelé	Fisch, frisch, gekühlt oder gefroren	Y	
+CP01131	Fresh or chilled fish	Poisson frais ou réfrigéré	Fisch: frisch oder gekühlt	Y	
+CP01131A	Salmon, steak (1 kg)	Darne de saumon (1 kg)	Lachssteak (1 kg)	Y	
+CP01132	Frozen fish	Poisson surgelé	Gefrorener Fisch	Y	
+CP01133_01134	Fresh, chilled or frozen seafood	Fruits de mer frais, réfrigérés ou surgelés	Schalentiere, Weichtiere und Frösche, frisch, gekühlt oder gefroren	Y	
+CP01133	Fresh or chilled seafood	Fruits de mer frais ou réfrigérés	Schalentiere, Weichtiere und Frösche: frisch oder gekühlt	Y	
+CP01134	Frozen seafood	Fruits de mer surgelés	Schalentiere, Weichtiere und Frösche: gefroren	Y	
+CP01135	Dried, smoked or salted fish and seafood	Poissons et fruits de mer séchés, fumés ou salés	Fisch, Schalentiere, Weichtiere und Frösche, getrocknet, geräuchert oder gesalzen	Y	
+CP01136	Other preserved or processed fish and seafood and fish and seafood preparations	Autres conserves ou préparations à base de poisson et de fruits de mer	Fisch, Schalentiere, Weichtiere und Frösche sowie deren Zubereitungen, anders konserviert oder verarbeitet	Y	
+CP01136A	Tinned pink tuna (1 kg/net)	Thon rose en conserve (1 kg/net)	Rosa Thunfisch in Dosen (1 kg/Nettogewicht)	Y	
+CP01136B	Fish fingers (500 g)	Bâtonnets de poisson (500 g)	Fischstäbchen (500 g)	Y	
+CP0114	Milk, cheese and eggs	Lait, fromages et oeufs	Milch, Käse und Eier	Y	
+CP01141	Fresh whole milk	Lait frais entier	Frische Vollmilch	Y	
+CP01141A	Milk, fresh, unskimmed (1 l)	Lait frais entier (1 l)	Frische Vollmilch (1 l)	Y	
+CP01142	Fresh low fat milk	Lait écrémé et demi écrémé	Frische Magermilch	Y	
+CP01143	Preserved milk	Lait de conserve	Dauermilch	Y	
+CP01144	Yoghurt	Yaourt	Joghurt	Y	
+CP01144A	Natural yoghurt (1 kg/l)	Yaourt nature (1 kg/l)	Naturjoghurt (1 kg/l)	Y	
+CP01144B	Fruit yoghurt (1 kg/l)	Yaourt aux fruits (1 kg/l)	Fruchtjoghurt (1 kg/l)	Y	
+CP01145	Cheese and curd	Fromage et lait caillé	Käse und Quark	Y	
+CP01145A	Cheese, Camembert type (1 kg)	Fromage de type Camembert (1 kg)	Käse, Typ Camembert  (1 kg)	Y	
+CP01145B	Cheese, Gouda type (1 kg)	Fromage de type Gouda (1 kg)	Käse, Typ Gouda (1 kg)	Y	
+CP01145C	Cream cheese (200 g)	Fromage frais à tartiner (200 g)	Frischkäse (200 g)	Y	
+CP01146	Other milk products	Autres produits laitiers	Sonstige Milchprodukte	Y	
+CP01147	Eggs	Oeufs	Eier	Y	
+CP01147A	Chicken eggs (10 eggs)	Oeufs de poule (10 oeufs)	Hühnereier (10 Stück)	Y	
+CP0115	Oils and fats	Huiles et graisses	Öle und Fette	Y	
+CP01151	Butter	Beurre	Butter	Y	
+CP01151A	Butter, unsalted (250 g)	Beurre, non salé (250 g)	Butter, ungesalzen (250 g)	Y	
+CP01152	Margarine and other vegetable fats	Margarine et autres graisses végétales	Margarine und andere pflanzliche Fette	Y	
+CP01152A	Margarine (250 g)	Margarine (250 g)	Margarine (250 g)	Y	
+CP01153	Olive oil	Huile d'olive	Olivenöl	Y	
+CP01153A	Olive oil (1 l)	Huile d'olive (1 l)	Olivenöl (1 l)	Y	
+CP01154	Other edible oils	Autres huiles alimentaires	Sonstige Speiseöle	Y	
+CP01154A	Vegetable oil (1 l)	Huile végétale (1 l)	Pflanzenöl (1 l)	Y	
+CP01155	Other edible animal fats	Autres graisses animales alimentaires	Sonstige tierische Speisefette	Y	
+CP0116	Fruit	Fruits	Obst	Y	
+CP0116A	Citrus fruits (fresh, chilled or frozen)	Agrumes (frais, réfrigérés ou congelés)	Zitrusfrüchte, frisch, gekühlt oder gefroren	Y	
+CP0116B	Bananas (fresh, chilled or frozen)	Bananes (fraîches, réfrigérées ou congelées)	Bananen, frisch, gekühlt oder gefroren	Y	
+CP0116C	Apples (fresh, chilled or frozen)	Pommes (fraîches, réfrigérées ou congelées)	Äpfel, frisch, gekühlt oder gefroren	Y	
+CP0116D	Pears (fresh, chilled or frozen)	Poires (fraîches, réfrigérées ou congelées)	Birnen, frisch, gekühlt oder gefroren	Y	
+CP0116E	Stone fruits (fresh, chilled or frozen)	Fruits à noyaux (frais, réfrigérés ou congelés)	Steinobst, frisch, gekühlt oder gefroren	Y	
+CP0116F	Berries (fresh, chilled or frozen)	Baies (fraîches, réfrigérées ou congelées)	Beeren, frisch, gekühlt oder gefroren	Y	
+CP0116G	Other fresh, chilled or frozen fruits	Autres fruits frais, réfrigérés ou congelés	Sonstiges Obst, frisch, gekühlt oder gefroren	Y	
+CP01161	Fresh or chilled fruit	Fruits frais ou réfrigérés	Frisches oder gekühltes Obst	Y	
+CP01161A	Apples (1 kg)	Pommes (1 kg)	Äpfel (1 kg)	Y	
+CP01161B	Fresh bananas (1 kg)	Bananes fraîches (1 kg)	Frische Bananen (1 kg)	Y	
+CP01162	Frozen fruit	Fruits surgelés	Gefrorenes Obst	Y	
+CP01163	Dried fruit and nuts	Fruits séchés et fruits à coque	Trockenobst und Nüsse	Y	
+CP01164	Preserved fruit and fruit-based products	Fruits en conserve et produits à base de fruits	Obst und obstbasierte Erzeugnisse, anders konserviert	Y	
+CP01164A	Canned fruit (1 kg/net)	Fruits en conserve (1 kg/net)	Dosenobst (1 kg/Nettogewicht)	Y	
+CP0117	Vegetables	Légumes	Gemüse	Y	
+CP0117A	Leaf and stem vegetables (fresh, chilled or frozen)	Légumes à feuilles et à tiges (frais, réfrigérés ou congelés)	Blatt- und Stielgemüse, frisch, gekühlt oder gefroren	Y	
+CP0117B	Cabbages (fresh or chilled)	Choux (frais ou réfrigérés)	Kohl, frisch oder gekühlt	Y	
+CP0117C	Vegetable grown for their fruit (fresh, chilled or frozen)	Légumes cultivés pour leurs fruits (frais, réfrigérés ou congelés)	Fruchtgemüse, frisch, gekühlt oder gefroren	Y	
+CP0117D	Root crops, non-starchy bulbs and mushrooms (fresh, chilled or frozen)	Racines alimentaires, racines non amylacées et champignons (frais, réfrigérés ou congelés)	Knollenfrüchte, nicht stärkehaltige Zwiebeln und Pilze, frisch, gekühlt oder gefroren	Y	
+CP01171	Fresh or chilled vegetables other than potatoes and other tubers	Légumes frais ou réfrigérés, sauf pommes de terre et autres tubercules	Frisches oder gekühltes Gemüse außer Kartoffeln und anderen Knollengewächsen	Y	
+CP01171A	Fresh carrots (1 kg)	Carottes fraîches (1 kg)	Frische Karotten (1 kg)	Y	
+CP01171B	Fresh tomatoes, round (1 kg)	Tomates fraîches rondes (1 kg)	Frische Tomaten, rund (1 kg)	Y	
+CP01172	Frozen vegetables other than potatoes and other tubers	Légumes surgelés, sauf pommes de terre et autres tubercules	Gefrorenes Gemüse außer Kartoffeln und anderen Knollengewächsen	Y	
+CP01173	Dried vegetables, other preserved or processed vegetables	Légumes séchés, autres légumes en conserve ou transformés	Getrocknetes Gemüse, anders konserviertes oder verarbeitetes Gemüse	Y	
+CP01173A	Tinned sweet corn (500 g/net)	Maïs doux en conserve (500 g/net)	Mais in Dosen (500 g/Nettogewicht)	Y	
+CP01173B	Dried vegetables	Légumes séchés	Trockengemüse	Y	
+CP01173C	Other preserved or processed vegetables	Légumes en conserve ou transformés	Anders konserviertes oder verarbeitetes Gemüse	Y	
+CP01174	Potatoes	Pommes de terre	Kartoffeln	Y	
+CP01174A	Potatoes (1 kg)	Pommes de terre (1 kg)	Kartoffeln (1 kg)	Y	
+CP01174B	Frozen French fries (1 kg)	Frites congelées (1 kg)	Pommes frites, tiefgekühlt (1 kg)	Y	
+CP01175	Crisps	Chips	Chips	Y	
+CP01175A	Potato crisps, single pack (200 g)	Chips de pommes de terre, emballage unique (200 g)	Kartoffelchips, Einzelverpackung (200 g)	Y	
+CP01176	Other tubers and products of tuber vegetables	Autres tubercules et produits issus de tubercules	Sonstige Knollengewächse und deren Erzeugnisse	Y	
+CP0118	Sugar, jam, honey, chocolate and confectionery	Sucre, confitures, miel, chocolat et confiserie	Zucker, Marmelade, Honig, Schokolade und Süßwaren	Y	
+CP01181	Sugar	Sucre	Zucker	Y	
+CP01181A	White sugar (1 kg)	Sucre blanc (1 kg)	Weißer Zucker (1 kg)	Y	
+CP01182	Jams, marmalades and honey	Confitures, marmelades et miel	Konfitüre, Marmelade und Honig	Y	
+CP01182A	Jam (1 kg)	Confiture (1 kg)	Konfitüre (1 kg)	Y	
+CP01183	Chocolate	Chocolats	Schokolade	Y	
+CP01183A	Chocolate, milk (1 kg)	Chocolat au lait (1 kg)	Milchschokolade (1 kg)	Y	
+CP01184	Confectionery products	Produits de confiserie	Süßwarenprodukte	Y	
+CP01184A	Chewing gum (1 package)	Gomme à mâcher (1 paquet)	Kaugummi (1 Packung)	Y	
+CP01185	Edible ices and ice cream	Glaces alimentaires et crèmes glacées	Speiseeis und Eiskrem	Y	
+CP01185A	Ice cream (1 l)	Crème glacée (1 l)	Speiseeis (1 l)	Y	
+CP01186	Artificial sugar substitutes	Succédané de sucre (sucrettes)	Künstliche Zuckeraustauschstoffe	Y	
+CP01186A	Other sugar products	Autres produits à base de sucre	Sonstige Zuckerprodukte	Y	
+CP0119	Food products n.e.c.	Produits alimentaires n.c.a.	Nahrungsmittel a.n.g.	Y	
+CP01191	Sauces, condiments	Sauces, condiments	Soßen und Würzen	Y	
+CP01191A	Tomato ketchup (1 kg)	Ketchup de tomates (1 kg)	Tomatenketchup (1 kg)	Y	
+CP01192	Salt, spices and culinary herbs	Sel, épices et herbes culinaires	Salz, Gewürze und Küchenkräuter	Y	
+CP01192A	Mineral salt (1 kg)	Sel minéral (1 kg)	Tafelsalz (1 kg)	Y	
+CP01192B	Black pepper (100 g)	Poivre noir (100 g)	Schwarzer Pfeffer (100 g)	Y	
+CP01193	Baby food	Aliments pour nourrissons	Babynahrung	Y	
+CP01193A	Baby food, meat base (500 g)	Aliments pour nourrisson, à base de viande (500 g)	Babynahrung auf Fleischbasis (500 g)	Y	
+CP01194	Ready-made meals	Plats cuisinés	Fertiggerichte	Y	
+CP01199	Other food products n.e.c.	Autres produits alimentaires n.c.a.	Sonstige Nahrungsmittel, a.n.g.	Y	
+CP01199A	Baker's yeast, dessert preparations, soups	Levure de boulanger, préparations pour dessert, soupes	Backhefe, Dessertzubereitungen, Suppen	Y	
+CP012	Non-alcoholic beverages	Boissons non alcoolisées	Alkoholfreie Getränke	Y	
+CP0121	Coffee, tea and cocoa	Café, thé, cacao	Kaffee, Tee und Kakao	Y	
+CP01211	Coffee	Café	Kaffee	Y	
+CP01211A	Coffee (1 kg)	Café (1 kg)	Kaffee (1 kg)	Y	
+CP01212	Tea	Thé	Tee	Y	
+CP01212A	Black tea (25 bags)	Thé noir (25 sachets)	Schwarzer Tee (25 Beutel)	Y	
+CP01213	Cocoa and powdered chocolate	Cacao et chocolat en poudre	Kakao und Schokoladenpulver	Y	
+CP01213A	Cocoa instant drink, powder (1 kg)	Boisson instantanée au cacao, en poudre (1 kg)	Kakaopulver für Instantgetränk (1 kg)	Y	
+CP0122	Mineral waters, soft drinks, fruit and vegetable juices	Eaux minéralse, boissons rafraîchissantes, jus de fruits et de légumes	Mineralwasser, Erfrischungsgetränke, Obst- und Gemüsesäfte	Y	
+CP01221	Mineral or spring waters	Eaux minérales ou de source	Mineral- oder Quellwasser	Y	
+CP01221A	Mineral water, carbonated (1 l)	Eau minérale gazeuse (1 l)	Mineralwasser mit Kohlensäure (1 l)	Y	
+CP01221B	Mineral water, still (1 l)	Eau minérale plate (1 l)	Mineralwasser, still (1 l)	Y	
+CP01222	Soft drinks	Boissons rafraîchissantes	Erfrischungsgetränke	Y	
+CP01222A	Carbonated drink, orange flavoured (1 l)	Boisson gazeuse parfumée à l'orange (1 l)	Kohlensäurehaltige Getränke mit Orangengeschmack (1 l)	Y	
+CP01223	Fruit and vegetables juices	Jus de fruits et de légumes	Obst- und Gemüsesäfte	Y	
+CP01223A	Fruit juices	Jus de fruits	Fruchtsäfte	Y	
+CP01223B	Orange juice (1 l)	Jus d'orange (1 l)	Orangensaft (1 l)	Y	
+CP01223C	Vegetable juices	Jus de légumes	Gemüsesäfte	Y	
+CP02	Alcoholic beverages, tobacco and narcotics	Boissons alcoolisées, tabac et stupéfiants	Alkoholische Getränke, Tabak und Narkotikum	Y	
+CP021	Alcoholic beverages	Boissons alcoolisées	Alkoholische Getränke	Y	
+CP0211	Spirits	Spiritueux	Branntwein	Y	
+CP02111	Spirits and liqueurs	Spiritueux et liqueurs	Branntwein und Liköre	Y	
+CP02111A	Vodka (1 l)	Vodka (1 l)	Wodka (1 l)	Y	
+CP02112	Alcoholic soft drinks	Boissons rafraîchissantes alcoolisées	Alkoholische Erfrischungsgetränke	Y	
+CP0212	Wine	Vins et boissons fermentées	Wein	Y	
+CP02121	Wine from grapes	Vins de raisins	Wein aus Trauben	Y	
+CP02121A	Red wine (0.75 l)	Vin rouge (0.75 l)	Rotwein (0.75 l)	Y	
+CP02121B	White wine (0.75 l)	Vin blanc (0.75 l)	Weißwein (0.75 l)	Y	
+CP02122	Wine from other fruits	Boissons fermentées à base d'autres fruits	Weine aus sonstigem Obst	Y	
+CP02123	Fortified wines	Vins enrichis en alcool	Likörweine	Y	
+CP02124	Wine-based drinks	Boissons à base de vin	Auf Wein basierte Getränke	Y	
+CP0213	Beer	Bière	Bier	Y	
+CP02131	Lager beer	Bières Lager	Helles Bier	Y	
+CP02131A	Beer (1 l)	Bière (1 l)	Bier (1 l)	Y	
+CP02132	Other alcoholic beer	Autre bière alcoolisée	Sonstige alkoholische Biere	Y	
+CP02133	Low and non-alcoholic beer	Bière à faible teneur en alcool ou sans alcool	Bier mit wenig Alkohol und alkoholfreies Bier	Y	
+CP02134	Beer-based drinks	Boissons à base de bière	Auf Bier basierte Getränke	Y	
+CP022	Tobacco	Tabac	Tabak	Y	
+CP0220	Tobacco	Tabac	Tabak	Y	
+CP02201	Cigarettes	Cigarettes	Zigaretten	Y	
+CP02201A	Cigarettes (20 cigarettes)	Cigarettes (20 cigarettes)	Zigaretten (20 Stück)	Y	
+CP02202	Cigars	Cigares	Zigarren	Y	
+CP02203	Other tobacco products	Autres produits du tabac	Sonstige Tabakwaren	Y	
+CP023	Narcotics	Stupéfiants	Narkotikum	Y	
+CP0230	Narcotics	Stupéfiants	Narkotikum	Y	
+CP02300	Narcotics	Stupéfiants	Narkotikum	Y	
+CP03	Clothing and footwear	Articles d'habillement et chaussures	Bekleidung und Schuhe	Y	
+CP031	Clothing	Articles d'habillement	Bekleidung	Y	
+CP0311	Clothing materials	Tissus pour habillement	Bekleidungsstoffe	Y	
+CP03110	Clothing materials	Tissus pour habillement	Bekleidungsstoffe	Y	
+CP03110A	Cotton (1 m2)	Coton (1 m2)	Baumwolle (1 m2)	Y	
+CP0312	Garments	Vêtements	Bekleidungsartikel	Y	
+CP03121	Garments for men	Vêtements pour homme	Herrenbekleidung	Y	
+CP03121A	Men's suit, wool (1 suit)	Costume homme, laine (1 costume)	Herrenanzug, Wolle (1 Anzug)	Y	
+CP03121B	Men's trousers (1 piece)	Pantalon homme (1 pièce)	Herrenhose (1 Stück)	Y	
+CP03121C	Men's blue jeans (1 piece)	Jeans homme (1 pièce)	Herrenjeans (1 Stück)	Y	
+CP03121D	Men's shirt (1 piece)	Chemise homme (1 pièce)	Herrenhemd (1 Stück)	Y	
+CP03121E	Men's T-shirt, short sleeves (1 piece)	T-shirt homme à manches courtes (1 pièce)	Herren-T-Shirt, kurzarm (1 Stück)	Y	
+CP03121F	Men's boxer briefs (1 piece)	Boxer homme (1 pièce)	Herren-Boxershorts (1 Stück)	Y	
+CP03122	Garments for women	Vêtements pour femmes	Damenbekleidung	Y	
+CP03122A	Ladies' top coat (1 piece)	Manteau femme (1 pièce)	Damenmantel (1 Stück)	Y	
+CP03122B	Ladies' blazer, woolmix (1 piece)	Veste femme, laine mélangée (1 pièce)	Damenblazer, Wollmix (1 Stück)	Y	
+CP03122C	Ladies' straight trousers, synthetic (1 piece)	Pantalon droit femme, synthétique (1 pièce)	Damenhose, gerader Schnitt, Synthetik (1 Stück)	Y	
+CP03122D	Ladies' jeans (1 piece)	Jeans femme (1 pièce)	Damenjeans (1 Stück)	Y	
+CP03122E	Ladies' skirt (1 piece)	Jupe femme (1 pièce)	Damenrock (1 Stück)	Y	
+CP03122F	Ladies' blouse (1 piece)	Chemisier femme (1 pièce)	Damenbluse (1 Stück)	Y	
+CP03122G	Ladies' T-shirt (1 piece)	T-shirt femme (1 pièce)	Damen-T-Shirt (1 Stück)	Y	
+CP03122H	Ladies' pullover (1 piece)	Pull-over femme (1 pièce)	Damenpullover (1 Stück)	Y	
+CP03122I	Brassiere, push-up (1 piece)	Soutien-gorge push-up (1 pièce)	Damen-Push-up-BH (1 Stück)	Y	
+CP03122J	Tights (1 piece)	Collants (1 pièce)	Strumpfhose (1 Stück)	Y	
+CP03122K	Ladies bikini (1 set)	Bikini femme (1 ensemble)	Damenbikini (1 Stück)	Y	
+CP03123	Garments for infants (0 to 2 years) and children (3 to 13 years)	Vêtements pour nourrissons (0 à 2 ans) et pour enfants (3 à 13 ans)	Bekleidung für Kleinkinder (0 bis 2 Jahre) und Kinder (3 bis 13 Jahre)	Y	
+CP03123A	Children' s jeans trousers (1 piece)	Jeans enfant (1 pièce)	Kinderjeans (1 Stück)	Y	
+CP03123B	Children' T-shirt, long sleeves (1 piece)	T-shirt enfant à manches longues (1 pièce)	Kinder-T-Shirt, langarm (1 Stück)	Y	
+CP03123C	Girls' skirt (1 piece)	Jupe fille (1 pièce)	Mädchenrock (1 Stück)	Y	
+CP03123D	Girls' tights (1 piece)	Collants fille (1 pièce)	Mädchen-Strumpfhose (1 Stück)	Y	
+CP03123E	Boys' socks (1 pair)	Chaussettes garçon (1 paire)	Jungensocken (1 Paar)	Y	
+CP03123F	Children' socks (1 pair)	Chaussettes enfant (1 paire)	Kindersocken (1 Paar)	Y	
+CP0313	Other articles of clothing and clothing accessories	Autres articles et accessoires d'habillement	Sonstige Bekleidungsartikel und -zubehör	Y	
+CP03131	Other articles of clothing	Autres articles d'habillement	Sonstige Bekleidungsartikel	Y	
+CP03132	Clothing accessories	Accessoires d'habillement	Sonstiges Bekleidungszubehör	Y	
+CP0314	Cleaning, repair and hire of clothing	Nettoyage, réparation et location d'articles d'habillement	Trockenreinigung, Reparatur und Miete von Bekleidung	Y	
+CP03141	Cleaning of clothing	Nettoyage d'articles d'habillement	Kleiderreinigung	Y	
+CP03141A	Dry cleaning (1 service)	Nettoyage à sec (1 service)	Chemische Reinigung (1 Dienstleistung)	Y	
+CP03142	Repair and hire of clothing	Réparation et location d'articles d'habillement	Reparatur und Vermietung von Bekleidung	Y	
+CP032	Footwear	Chaussures	Schuhe	Y	
+CP0321_0322	Shoes and other footwear; repair and hire of footwear	Chaussures et autres articles chaussants; réparation et location d'articles chaussants	Schuhe und anderes Schuhwerk; Reparatur und Vermietung von Schuhwerk	Y	
+CP0321	Shoes and other footwear	Chaussures diverses	Schuhe und anderes Schuhwerk	Y	
+CP03211	Footwear for men	Chaussures pour hommes	Herrenschuhe	Y	
+CP03211A	Men's lace-up shoes (1 pair)	Chaussures à lacets homme (1 paire)	Herren-Schnürschuhe (1 Paar)	Y	
+CP03211B	Men's street shoes (1 pair)	Chaussures de ville homme (1 paire)	Herren-Freizeitschuhe (1 Paar)	Y	
+CP03212	Footwear for women	Chaussures pour femmes	Damenschuhe	Y	
+CP03212A	Ladies' conventional court shoes (1 pair)	Escarpins classiques femme (1 paire)	Damen-Pumps (1 Paar)	Y	
+CP03212B	Ladies' long boots (1 pair)	Bottes hautes femme (1 paire)	Damen-Hochstiefel (1 Paar)	Y	
+CP03213	Footwear for infants and children	Chaussures pour nourrissons et enfants	Schuhwerk für Kleinkinder und Kinder	Y	
+CP03213A	Children's sport shoes (1 pair)	Chaussures de sport enfant (1 paire)	Kinder-Sportschuhe (1 Paar)	Y	
+CP0322	Repair and hire of footwear	Cordonnerie et location de chaussures	Reparatur und Miete	Y	
+CP03220	Repair and hire of footwear	Cordonnerie et location de chaussures	Reparatur und Vermietung von Schuhwerk	Y	
+CP03220A	Services, Cobbler (1 service)	Services de cordonnerie (1 service)	Schusterdienstleistungen (1 Dienstleistung)	Y	
+CP04_X_042	Housing, water, electricity, gas and other fuels except imputed rentals for housing	Logement, eau, électricité, gaz et autres combustibles sauf le loyer d'habitation imputés	Wohnung, Wasser, Elektrizität, Gas und andere Brennstoffe ohne Unterstellte Mieten für Wohnungen	Y	
+CP04	Housing, water, electricity, gas and other fuels	Logement, eau, électricité, gaz et autres combustibles	Wohnung, Wasser, Elektrizität, Gas und andere Brennstoffe	Y	
+CP041	Actual rentals for housing	Loyers d'habitation effectifs	Wohnungsmieten	Y	
+CP0411_0412	Actual rentals paid by tenants; other actual rentals	Loyers effectivement payés par les locataires; autres loyers effectifs	Tatsächlich gezahlte Mietbeträge der Mieter; Sonstige tatsächliche Wohnungsmieten	Y	
+CP0411	Actual rentals paid by tenants	Loyers effectivement payés par les locataires	Gezahlte Wohnungsmieten	Y	
+CP04110	Actual rentals paid by tenants	Loyers effectivement payés par les locataires	Tatsächlich gezahlte Mietbeträge der Mieter	Y	
+CP0412	Other actual rentals	Autres loyers effectifs	Sonstige gezahlte Wohnungsmieten	Y	
+CP04121	Actual rentals paid by tenants for secondary residences	Loyers effectivement payés par les locataires pour des résidences secondaires	Tatsächlich gezahlte Mietbeträge der Mieter von Zweitwohnsitzen	Y	
+CP04122	Garage rentals and other rentals paid by tenants	Location de garage et autres loyers payés par les locataires	Mieten für Garagen und sonstige gezahlte Mietbeträge der Mieter	Y	
+CP042	Imputed rentals for housing	Loyer d'habitation imputés	Unterstellte Mieten für Wohnungen	Y	
+CP0421	Imputed rentals of owner-occupiers	Loyer imputés des propriétaires-occupants	Unterstellte Mieten der Eigentümer	Y	
+CP04210	Imputed rentals of owner-occupiers	Loyer imputés des propriétaires-occupants	Kalkulatorische Mieten der Eigentümer	Y	
+CP0422	Other imputed rentals	Autres loyers imputés	Sonstige kalkulatorische Mieten	Y	
+CP04220	Other imputed rentals	Autres loyers imputés	Sonstige kalkulatorische Mieten	Y	
+CP043	Maintenance and repair of the dwelling	Entretien et réparation du logement	Reguläre Instandhaltung und Reparatur der Wohnung	Y	
+CP0431	Materials for the maintenance and repair of the dwelling	Fournitures pour travaux d'entretien et de réparation des logements	Erzeugnisse für die reguläre Instandhaltung und Reparatur der Wohnung	Y	
+CP04310	Materials for the maintenance and repair of the dwelling	Fournitures pour travaux d'entretien et de réparation des logements	Erzeugnisse für die reguläre Instandhaltung und Reparatur der Wohnung	Y	
+CP04310A	Paint, indoor use (10 l)	Peinture à usage intérieur (10 l)	Wandfarbe, Innenbereich (10 l)	Y	
+CP04310B	Silicone (300 ml)	Silicone (300 ml)	Silikon (300 ml)	Y	
+CP04310C	Cement (25 kg)	Ciment (25 kg)	Zement (25 kg)	Y	
+CP0432	Services for the maintenance and repair of the dwelling	Services concernant l'entretien et les réparations du logement	Dienstleistungen für die reguläre Instandhaltung und Reparatur der Wohnung	Y	
+CP04321	Services of plumbers	Services de plombiers	Dienstleistungen von Klempnern	Y	
+CP04322	Services of electricians	Szervices d'électriciens	Dienstleistungen von Elektriker	Y	
+CP04323	Maintenance services for heating systems	Services d'entretien pour les systèmes de chauffage	Dienstleistungen zur Instandhaltung der Heizsysteme	Y	
+CP04324	Services of painters	Services de peintres	Dienstleistungen von Maler	Y	
+CP04325	Services of carpenters	Services de menuisiers	Dienstleistungen von Zimmerer	Y	
+CP04329	Other services for maintenance and repair of the dwelling	Autres services concernant l'entretien et les réparations du logement	Sonstige Dienstleistungen für die reguläre Instandhaltung und Reparatur der Wohnung	Y	
+CP044_X_0444	Water supply and miscellaneous services except other services relating to the dwelling n.e.c. (water and sanitation)	Alimentation en eau et services divers sauf les services divers liés au logement n.c.a. (eau et assainissement)	Wasserversorgung und sonstige Dienstleistungen ohne sonstige Dienstleistungen im Zusammenhang mit der Wohnung, a.n.g. (Wasser und sanitäre Einrichtungen)	Y	
+CP044	Water supply and miscellaneous services relating to the dwelling	Alimentation en eau et services divers liés au logement	Wasserversorgung und sonstige Dienstleistungen im Zusammenhang mit der Wohnung	Y	
+CP0441	Water supply	Alimentation en eau	Wasserversorgung	Y	
+CP04410	Water supply	Alimentation en eau	Wasserversorgung	Y	
+CP0442	Refuse collection	Collecte des ordures ménagères	Müllabfuhr	Y	
+CP04420	Refuse collection	Collecte des ordures ménagères	Müllabfuhr	Y	
+CP0443	Sewerage collection	Collecte des eaux usées	Abwasserbeseitigung	Y	
+CP04430	Sewerage collection	Collecte des eaux usées	Abwasserbeseitigung	Y	
+CP0444	Other services relating to the dwelling n.e.c.	Services divers liés au logement n.c.a.	Sonstige Dienstleistungen im Zusammenhang mit der Wohnung, a.n.g.	Y	
+CP04441	Maintenance charges in multi-occupied buildings	Charges d'entretien dans les immeubles collectifs	Nebenkosten in mehrfach-genutzten Gebäuden	Y	
+CP04442	Security services	Serivices de sécurité	Sicherheitsdienste	Y	
+CP04449	Other services related to dwelling	Autres services liés au logement	Sonstige Dienstleistungen im Zusammenhang mit der Wohnung	Y	
+CP045	Electricity, gas and other fuels	Electricité, gaz et autres combustibles	Elektrizität, Gas und andere Brennstoffe	Y	
+CP0451	Electricity	Electricité	Elektrizität	Y	
+CP04510	Electricity	Electricité	Elektrizität	Y	
+CP0452	Gas	Gaz	Gas	Y	
+CP04521	Natural gas and town gas	Gaz naturel et gaz de ville	Erdgas und Stadtgas	Y	
+CP04522	Liquefied hydrocarbons (butane, propane, etc.)	Hydrocarbures liquéfiés(butanes, propanes, etc.)	Flüssige Kohlenwasserstoffe (Butan, Propan usw.)	Y	
+CP0453	Liquid fuels	Combustibles liquides	Flüssige Brennstoffe	Y	
+CP04530	Liquid fuels	Combustibles liquides	Flüssige Brennstoffe	Y	
+CP0454	Solid fuels	Combustibles solides	Feste Brennstoffe	Y	
+CP04541	Coal	Charbon	Kohle	Y	
+CP04549	Other solid fuels	Autres combustibles solides	Sonstige feste Brennstoffe	Y	
+CP0455	Heat energy	Energie thermique	Wärmeenergie	Y	
+CP04550	Heat energy	Energie thermique	Wärmeenergie	Y	
+CP05	Furnishings, household equipment and routine household maintenance	Meubles, articles de ménage et entretien courant du foyer	Hausrat und laufende Instandhaltung des Hauses	Y	
+CP051	Furniture and furnishings, carpets and other floor coverings	Meubles, articles d'ameublement, tapis et autres revêtements de sol	Einrichtungsgegenstände, Bodenbeläge und Reparaturen	Y	
+CP0511	Furniture and furnishings	Meubles, articles d'ameublement	Möbel und andere Einrichtungsgegenstände	Y	
+CP05111	Household furniture	Meubles de maison	Wohnmöbel	Y	
+CP05111A	Double bed frame, pressboard (1 piece)	Cadre de lit double, bois pressé (1 pièce)	Doppelbett, Pressspanplatte (1 Stück)	Y	
+CP05111B	Sofa set (1 set)	Ensemble canapé (1 ensemble)	Sofa-Set (1 Set)	Y	
+CP05111C	Kitchen table (1 piece)	Table de cuisine (1 pièce)	Küchentisch (1 Stück)	Y	
+CP05111D	Kitchen chair (1 piece)	Chaise de cuisine (1 pièce)	Küchenstuhl (1 Stück)	Y	
+CP05111E	Pocket spring mattress (1 piece)	Matelas à ressorts ensachés (1 pièce)	Taschenfederkernmatratze (1 Stück)	Y	
+CP05111F	Wardrobe (1 piece)	Armoire (1 pièce)	Garderobe (1 Stück)	Y	
+CP05111G	Armchair (1 piece)	Fauteuil (1 pièce)	Sessel (1 Stück)	Y	
+CP05111H	Coffee table (1 piece)	Table basse (1 pièce)	Couchtisch (1 Stück)	Y	
+CP05111I	Bookcase (1 piece)	Bibliothèque (1 pièce)	Bücherregal (1 Stück)	Y	
+CP05112	Garden furniture	Meubles de jardin	Gartenmöbel	Y	
+CP05113	Lighting equipment	Appareils d'éclairage	Beleuchtungskörper	Y	
+CP05113A	Table lamp (1 piece)	Lampe de table (1 pièce)	Tischleuchte (1 Stück)	Y	
+CP05119	Other furniture and furnishings	Autres meubles et articles d'ameublement	Sonstige Möbel und Einrichtungsgegenstände	Y	
+CP0512	Carpets and other floor coverings	Tapis et revêtements de sol divers	Teppiche und andere Bodenbeläge	Y	
+CP05121	Carpet and rugs	Tapis et moquettes	Teppiche und Vorleger	Y	
+CP05122	Other floor coverings	Autres revêtements de sol	Sonstige Bodenbeläge	Y	
+CP05123	Services of laying of fitted carpets and floor coverings	Services de pose de moquettes et revêtements de sol	Dienstleistungen zur Verlegung von Teppichböden und sonstigen Bodenbelägen	Y	
+CP0513	Repair of furniture, furnishings and floor coverings	Réparation des meubles, articles d'ameublement et revêtements de sol	Reparatur von Einrichtungsgegenständen und Bodenbelägen	Y	
+CP05130	Repair of furniture, furnishings and floor coverings	Réparation des meubles, articles d'ameublement et revêtements de sol	Reparatur von Möbel,  Einrichtungsgegenständen und Bodenbelägen	Y	
+CP052	Household textiles	Articles de ménage en textiles	Heimtextilien	Y	
+CP0520	Household textiles	Articles de ménage en textiles	Heimtextilien	Y	
+CP05201	Furnishings fabrics and curtains	Tissus d'ameublement et rideaux	Möbelstoffe und Gardinen	Y	
+CP05201A	Curtain material (1 m2)	Tissu à rideau (1 m2)	Vorhangmaterial (1 m2)	Y	
+CP05202	Bed linen	Linge de lit	Bettwäsche	Y	
+CP05202A	Duvet (1 piece)	Couette (1 pièce)	Federbettdecke (1 Stück)	Y	
+CP05202B	Bedlinen (1 set)	Linge de lit (1 ensemble)	Bettwäsche (1 Satz)	Y	
+CP05202C	Blanket (1 piece)	Couverture (1 pièce)	Decke (1 Stück)	Y	
+CP05203	Table linen and bathroom linen	Linge de table et linge de toilette	Tischwäsche und Handtücher	Y	
+CP05203A	Towel (1 piece)	Serviette de bain (1 pièce)	Handtuch (1 Stück)	Y	
+CP05204	Repair of household textiles	Réparation d'articles de ménage en textiles	Reparatur von Heimtextilien	Y	
+CP05209	Other household textiles	Autres articles de maison en textile	Sonstige Heimtextilien	Y	
+CP053	Household appliances	Appareils ménagers	Haushaltsgeräte	Y	
+CP0531_0532	Major household appliances whether electric or not and small electric household appliances	Gros appareils ménagers électriques ou non et petits appareils électroménagers	Elektrische und nichtelektrische Haushalts-Großgeräte sowie elektrische Haushalts-Kleingeräte	Y	
+CP0531	Major household appliances whether electric or not	Gros appareils ménagers électriques ou non	Elektrische und nichtelektrische Haushalts-Großgeräte	Y	
+CP05311	Refrigerators, freezers and fridge-freezers	Réfrigérateurs, congélateurs et réfrigérateurs-congélateurs	Kühlschränke, Gefrierschränke und kombinierte Kühl- und Gefriergeräte	Y	
+CP05311A	Refrigerator, undercounter, with freezer (1 piece)	Réfrigérateur sous plan, avec congélateur (1 pièce)	Einbaukühlschrank, mit Gefrierfach (1 Stück)	Y	
+CP05311A1	Refrigerator, undercounter, with freezer, energy efficiency A/A+ (1 piece)	Réfrigérateur sous plan, avec congélateur, efficacité énergétique A/A+ (1 pièce)	Einbaukühlschrank, mit Gefrierfach, Energieeffizienz A/A+ (1 Stück)	Y	
+CP05311A2	Refrigerator, undercounter, with freezer, energy efficiency A+/A++ (1 piece)	Réfrigérateur sous plan, avec congélateur, efficacité énergétique A+/A++ (1 pièce)	Einbaukühlschrank, mit Gefrierfach, Energieeffizienz A+/A++ (1 Stück)	Y	
+CP05311B1	Fridge-freezer, energy efficiency A (1 piece)	Réfrigérateur-congélateur, efficacité énergétique A (1 pièce)	Kühl-Gefrierkombination, Energieeffizienz A (1 Stück)	Y	
+CP05311B2	Fridge-freezer, energy efficiency A+ (1 piece)	Réfrigérateur-congélateur, efficacité énergétique A+ (1 pièce)	Kühl-Gefrierkombination, Energieeffizienz A+ (1 Stück)	Y	
+CP05312	Clothes washing machines, clothes drying machines and dish washing machines	Lave-linge, sèche-linge et lave-vaiselle	Waschmaschinen, Wäschetrockner und Geschirrspülmaschinen	Y	
+CP05312A1	Washing machine, 4.5-5 kg (1 piece)	Lave-linge, 4.5-5 kg (1 pièce)	Waschmaschine, 4.5-5 kg (1 Stück)	Y	
+CP05312A2	Washing machine, 6-7 kg, energy efficiency A/A+ (1 piece)	Lave-linge, 6-7 kg, efficacité énergétique A/A+ (1 pièce)	Waschmaschine, 6-7 kg, Energieeffizienz A/A+ (1 Stück)	Y	
+CP05312A3	Washing machine, 6-7 kg, energy efficiency A++/A+++ (1 piece)	Lave-linge, 6-7 kg, efficacité énergétique A++/A+++ (1 pièce)	Waschmaschine, 6-7 kg, Energieeffizienz A++/A+++ (1 Stück)	Y	
+CP05313	Cookers	Cuisinières	Kocher	Y	
+CP05313A	Microwave oven (1 piece)	Four à micro-ondes (1 pièce)	Mikrowellenherd (1 Stück)	Y	
+CP05314	Heaters, air conditioners	Appareils de chauffage et de climatisation	Heizgeräte und Klimaanlagen	Y	
+CP05315	Cleaning equipment	Matériel de nettoyage	Reinigungsgeräte	Y	
+CP05315A1	Vacuum cleaner, 1400-1600 W (1 piece)	Aspirateur, 1400-1600 W (1 pièce)	Staubsauger, 1400-1600 W (1 Stück)	Y	
+CP05315A2	Vacuum cleaner, 1600-2000 W (1 piece)	Aspirateur, 1600-2000 W (1 pièce)	Staubsauger, 1600-2000 W (1 Stück)	Y	
+CP05315A3	Vacuum cleaner, 1600-2200 W (1 piece)	Aspirateur, 1600-2200 W (1 pièce)	Staubsauger, 1600-2200 W (1 Stück)	Y	
+CP05315A4	Vacuum cleaner, 1400 W (1 piece)	Aspirateur, 1400 W (1 pièce)	Staubsauger, 1400 W (1 Stück)	Y	
+CP05319	Other major household appliances	Autres gros appareils ménagers	Sonstige Haushalts-Großgeräte	Y	
+CP0532	Small electric household appliances	Petits appareils électroménagers	Elektrische Haushalts-Kleingeräte	Y	
+CP05321	Food processing appliances	Appareils de transformation d'aliments	Geräte zur Lebensmittelverarbeitung	Y	
+CP05322	Coffee machines, tea-makers and similar appliances	Cafetières électriques, théières et appareils similaires	Kaffeemschinen, Teezubereiter und sonstige ähnliche Geräte	Y	
+CP05322A1	Kettle, 1.5l (1 piece)	Bouilloire, 1.5l (1 pièce)	Wasserkocher, 1.5l (1 Stück)	Y	
+CP05322A2	Kettle, 1.7l (1 piece)	Bouilloire, 1.7l (1 pièce)	Wasserkocher, 1.7l (1 Stück)	Y	
+CP05323	Irons	Fers à repasser	Bügeleisen	Y	
+CP05324	Toasters and grills	Grille-pain et grils	Toaster und Grills	Y	
+CP05329	Other small electric household appliances	Autres petits appareils électroménagers	Sonstige elektrische Haushalts-Kleingeräte	Y	
+CP0533	Repair of household appliances	Réparation d' appareils ménagers	Reparatur von Haushaltsgeräten	Y	
+CP05330	Repair of household appliances	Réparation d' appareils ménagers	Reparatur von Haushaltsgeräten	Y	
+CP054	Glassware, tableware and household utensils	Verrerie, vaisselle et ustensiles de ménage	Glaswaren, Geschirr und andere Gebrauchsgüter für die Haushaltsführung	Y	
+CP0540	Glassware, tableware and household utensils	Verrerie, vaisselle et ustensiles de ménage	Glaswaren, Geschirr und andere Gebrauchsgüter für die Haushaltsführung	Y	
+CP05401	Glassware, crystal-ware, ceramic ware and chinaware	Verrerie, cristallerie, céramique et porcelaine	Glas- und Kristallwaren, Geschirr und Porzellan	Y	
+CP05401A	Glass for water (1 piece)	Verre à eau (1 pièce)	Wasserglas (1 Stück)	Y	
+CP05401B	Flat plate (1 piece)	Assiette plate (1 pièce)	Flacher Teller (1 Stück)	Y	
+CP05401C	Cup and saucer (1 set)	Tasse et soucoupe (1 ensemble)	Tasse mit Untertasse (1 Set)	Y	
+CP05402	Cutlery, flatware and silverware	Articles de coutellerie, couverts et argenterie	Schneidwaren, Bestecke und Silberwaren	Y	
+CP05403	Non-electric kitchen utensils and articles	Ustensiles et articles de cuisine non électriques	Nichtelektrische Küchengeräte und sonstige Haushaltsartikel	Y	
+CP05403A	Cooking pot, stainless steel (1 set)	Casserole en acier inoxydable (1 ensemble)	Kochtopf, Edelstahl (1 Set)	Y	
+CP05404	Repair of glassware, tableware and household utensils	Réparation de verrerie, de vaisselle et d'ustensiles de ménage	Reparatur von Glaswaren, Geschirr und sonstigen Gebrauchsgüter für die Haushaltsführung	Y	
+CP055	Tools and equipment for house and garden	Outillage et autre matériel pour la maison et le jardin	Werkzeuge und andere Gebrauchsgüter für Haus und Garten	Y	
+CP0551_0552	Major tools and equipment; small tools and miscellaneous accessories	Gros outillage; petit outillage et accessoires divers	Großwerzeuge und -geräte; Kleinwerkzeuge und diverses Zubehör	Y	
+CP0551	Major tools and equipment	Gros outillage et matériel	Großwerzeuge und -geräte	Y	
+CP05511	Motorized major tools and equipment	Gros outillage et matériel motorisés	Motorisierte Großwerkzeuge und -geräte	Y	
+CP05512	Repair, leasing and rental of major tools and equipment	Réparation et location de gros outillage et matériel	Reparatur, Leasing und Vermietung von Großwerkzeugen und -geräten	Y	
+CP0552	Small tools and miscellaneous accessories	Petit outillage et accessoires divers	Kleinwerkzeuge und diverses Zubehör	Y	
+CP05521	Non-motorised small tools	Petit outillage non motorisé	Nicht-motorisierte Kleinwerkzeuge	Y	
+CP05522	Miscellaneous small tool accessories	Divers accessoires de petit outillage	Sonstiges Zubehör für Kleinwerkzeuge	Y	
+CP05522A	Battery (1 piece)	Pile (1 pièce)	Batterie (1 Stück)	Y	
+CP05522B	Light bulb, standard (1 piece)	Ampoule électrique, classique (1 pièce)	Glühbirne, standard (1 Stück)	Y	
+CP05522C	Light bulb energy saving type (1 piece)	Ampoule électrique économique (1 pièce)	Energiesparlampe (1 Stück)	Y	
+CP05523	Repair of non-motorised small tools and miscellaneous accessories	Réparation de petit outillage non motorisé et d'accessoires divers	Reparatur von nicht-motorisierten Kleinwerkzeugen und sonstigem Zubehör	Y	
+CP056	Goods and services for routine household maintenance	Biens et services pour l'entretien courant du foyer	Waren und Dienstleistungen für die laufende Haushaltsführung	Y	
+CP0561	Non-durable household goods	Biens d'équipement ménager non durables	Kurzlebige Haushaltswaren	Y	
+CP05611	Cleaning and maintenance products	Produits de nettoyage et d'entretien	Reinigungs- und Pflegemittel	Y	
+CP05611A	Dish washer tablets (10 tablets)	Tablettes pour lave-vaisselle (10 tablettes)	Geschirrspültabs (10 Tabs)	Y	
+CP05611B	Detergent for washing machine, concentrated (1 kg)	Lessive pour lave-linge, concentrée (1 kg)	Waschmittel für Waschmaschinen, konzentriert (1 kg)	Y	
+CP05611C	Detergent for washing machine, unconcentrated (1 kg)	Lessive pour lave-linge, non concentrée (1 kg)	Waschmittel für Waschmaschinen, nicht konzentriert (1 kg)	Y	
+CP05611D	All-purposes household cleaner (1 l)	Nettoyant ménager multi-usage (1 l)	Allzweckreiniger (1 l)	Y	
+CP05611E	Cleaner for WC (1 l)	Nettoyant WC (1 l)	WC-Reiniger (1 l)	Y	
+CP05611F	Cleaning liquid for windows (1 l)	Produit liquide à nettoyer les vitres, toutes marques (1 l)	Fensterreiniger (1 l)	Y	
+CP05611G1	Detergent for washing machine, powder, 70-90 g/wash (1 kg)	Lessive pour lave-linge, poudre, 70-90 g/lavage (1 kg)	Waschmittel für Waschmaschinen, pulver, 70-90 g/Waschgang (1 kg)	Y	
+CP05611G2	Detergent for washing machine, powder, > 90 g/wash (1 kg)	Lessive pour lave-linge, poudre, > 90 g/lavage (1 kg)	Waschmittel für Waschmaschinen, pulver, > 90 g/Waschgang (1 kg)	Y	
+CP05612	Other non-durable small household articles	Autres petits articles de ménage non durables	Sonstige kleine kurzlebige Haushaltswaren	Y	
+CP05612A	Scourer sponge (1 piece)	Éponge à récurer (1 pièce)	Scheuerschwamm (1 Stück)	Y	
+CP0562	Domestic services and household services	Services domestiques et services ménagers	Leistungen von Hauspersonal, Fensterputzern, Desinfektoren und Kammerjägern; Miete von Hausrat	Y	
+CP05621	Domestic services by paid staff	Services domestiques fournis par du personnel rémunéré	Häusliche Dienstleistungen von Angestellten	Y	
+CP05622	Cleaning services	Services de nettoyage	Reinigungsdienstleistungen	Y	
+CP05623	Hire of furniture and furnishings	Location de meubles et d' articles ménagers	Miete von Möbeln und Einrichtungsgegenständen	Y	
+CP05629	Other domestic services and household services	Autres services domestiques et services ménagers	Sonstige häusliche Dienstleistungen und Dienstleistungen der Haushaltsführung	Y	
+CP06	Health	Santé	Gesundheit	Y	
+CP061	Medical products, appliances and equipment	Produits, appareils et matériels médicaux	Medizinische Erzeugnisse und Geräte	Y	
+CP0611	Pharmaceutical products	Produits pharmaceutiques	Pharmazeutische Erzeugnisse	Y	
+CP06110	Pharmaceutical products	Produits pharmaceutiques	Pharmazeutische Erzeugnisse	Y	
+CP06110A	Acetylsalicylic acid (10 tablets)	Acide acétylsalicylique (10 comprimés)	Acetylsalicylsäure (10 Tabletten)	Y	
+CP06110B	Aciclovir (2 g)	Aciclovir (2 g)	Aciclovir (2 g)	Y	
+CP06110C	Alprazolam (10 tablets)	Alprazolam (10 comprimés)	Alprazolam (10 Tabletten)	Y	
+CP06110D	Atorvastatin (10 tablets)	Atorvastatine (10 comprimés)	Atorvastatin (10 Tabletten)	Y	
+CP06110E	Cetirizine (10 tablets)	Cétirizine (10 comprimés)	Cetirizin (10 Tabletten)	Y	
+CP06110F	Ciprofloxacin (10 tablets)	Ciprofloxacine (10 comprimés)	Ciprofloxacin (10 Tabletten)	Y	
+CP06110G	Clopidogrel (10 tablets)	Clopidogrel (10 comprimés)	Clopidogrel (10 Tabletten)	Y	
+CP06110H	Diclofenac (100 g)	Diclofénac (100 g)	Diclofenac (100 g)	Y	
+CP06110I	Enalapril-Hydrochlorothiazide/HCTZ (10 tablets)	Énalapril-Hydrochlorothiazide/HCTZ (10 comprimés)	Enalapril-Hydrochlorothiazid (10 Tabletten)	Y	
+CP06110J	Esomeprazole (10 tablets)	Ésoméprazole (10 comprimés)	Esomeprazol (10 Tabletten)	Y	
+CP06110K	Latanoprost (10 ml)	Latanoprost (10 ml)	Latanoprost (10 ml)	Y	
+CP06110L	Montelukast (10 tablets)	Montélukast (10 comprimés)	Montelukast (10 Tabletten)	Y	
+CP06110M	Paracetamol (10 tablets)	Paracétamol (10 comprimés)	Paracetamol (10 Tabletten)	Y	
+CP06110N	Risedronate (10 tablets)	Risédronate (10 comprimés)	Risedronatsäure (10 Tabletten)	Y	
+CP0612_0613	Other medical products, therapeutic appliances and equipment	Autres produits médicaux, produits et appareils thérapeutiques	Sonstige medizinische Erzeugnisse, therapeutische Geräte und Ausstattung	Y	
+CP0612	Other medical products	Autres produits médicaux	Sonstige medizinische Erzeugnisse	Y	
+CP06121	Pregnancy tests and mechanical contraceptive devices	Tests de grossesse et dispositifs contraceptifs mécaniques	Schwangerschaftstests und Mittel zur Empfängnisverhütung	Y	
+CP06121A	Pregnancy test (1 piece)	Test de grossesse (1 pièce)	Schwangerschaftstest (1 Stück)	Y	
+CP06121B	Condoms (3 pieces)	Préservatifs (3 pièces)	Kondome (3 Stück)	Y	
+CP06129	Other medical products n.e.c.	Autres produits médicaux n.c.a.	Sonstige medizinische Erzeugnisse, a.n.g.	Y	
+CP06129A	Plaster strips (10 strips)	Bandes plâtrées (10 bandes)	Pflasterstreifen (10 Streifen)	Y	
+CP06129B	Joint bandage (1 m)	Bandage pour articulation (1 m)	Elastische Binde (1 m)	Y	
+CP06129C	Knee support (1 piece)	Genouillère (1 pièce)	Kniebandage (1 Stück)	Y	
+CP06129D	Digital stick thermometer (1 piece)	Thermomètre numérique (1 pièce)	Fieberthermometer mit Digitalanzeige (1 Stück)	Y	
+CP0613	Therapeutic appliances and equipment	Appareils et matériel thérapeutiques	Therapeutische Geräte	Y	
+CP06131	Corrective eye-glasses and contact lenses	Lunettes de vue à verres correcteurs et lentilles de contact	Korrektive Brillen und Kontaktlinsen	Y	
+CP06132	Hearing aids	Aides auditives	Hörgeräte	Y	
+CP06133	Repair of therapeutic appliances and equipment	Réparation d' appareils et de matériel thérapeutiques	Reparatur von therapeutischen Geräten und Ausstattung	Y	
+CP06139	Other therapeutic appliances and equipment	Autres appareils et matériel thérapeutiques	Sonstige therapeutische Geräte und Ausstattung	Y	
+CP062	Out-patient services	Services ambulatoires	Ambulante Dienstleistungen	Y	
+CP0621_0623	Medical services and paramedical services	Services médicaux et paramédicaux	Medizinische Dienstleistungen und paramedizinische Dienstleistungen	Y	
+CP0621	Medical services	Services médicaux	Medizinische Dienstleistungen	Y	
+CP06211	General practice	Médecins généralistes	Allgemeinmedizin	Y	
+CP06211A	General practioner (1 service)	Médecin généraliste  (1 service)	Allgemeinmediziner (1 Dienstleistung)	Y	
+CP06212	Specialist practice	Médecins spécialistes	Fachmedizin	Y	
+CP06212A	Eye specialist, Ophthalmologist (1 service)	Oculiste, médecin ophtalmologiste (1 service)	Augenfacharzt, Ophthalmologe (1 Dienstleistung)	Y	
+CP0622	Dental services	Services dentaires	Zahnmedizinische Dienstleistungen	Y	
+CP06220	Dental services	Services dentaires	Zahnmedizinische Dienstleistungen	Y	
+CP06220A	Dentist, plastic filling (1 service)	Dentiste, amalgame en plastique (1 service)	Zahnarzt, Kunststofffüllung (1 Dienstleistung)	Y	
+CP0623	Paramedical services	Services paramédicaux	Paramedizinische Dienstleistungen	Y	
+CP06231	Services of medical analysis laboratories and X-ray centres	Services de laboratoires d'analyses médicales et de centres de radiologie	Dienstleistungen von medizinischen Labors und Röntgenzentren	Y	
+CP06231A	Thorax X-ray (1 service)	Radiographie du thorax (1 service)	Röntgenaufnahme Thorax (1 Dienstleistung)	Y	
+CP06232	Thermal-baths, corrective-gymnastic therapy, ambulance and hire of therapeutic equipment	Cures thermales, traitement de gymnastique corrective, services d'ambulance et location de matériel thérapeutique	Thermal-Bäder, Korrektur-Gymnastik Therapie, Ambulanz und Miete von therapeutischen Geräten	Y	
+CP06239	Other paramedical services	Autres services paramédicaux	Sonstige paramedizinische Dienstleistungen	Y	
+CP063	Hospital services	Services hospitaliers	Krankenhausdienstleistungen	Y	
+CP0630	Hospital services	Services hospitaliers	Krankenhausdienstleistungen	Y	
+CP06300	Hospital services	Services hospitaliers	Krankenhausdienstleistungen	Y	
+CP07	Transport	Transports	Verkehr	Y	
+CP071	Purchase of vehicles	Achat de véhicules	Kauf von Fahrzeugen	Y	
+CP0711	Motor cars	Voitures automobiles	Neue und gebrauchte Kraftfahrzeuge	Y	
+CP07111	New motor cars	Voitures automobiles neuves	Neue Kraftfahrzeuge	Y	
+CP07112	Second-hand motor cars	Voitures automobiles d'occasion	Gebrauchte Kraftfahrzeuge	Y	
+CP0712-0714	Motor cycles, bicycles and animal drawn vehicles	Motocycles, cycles et véhicules à traction animale	Krafträder, Fahrräder und Gespannfahrzeuge	Y	
+CP0712	Motor cycles	Motocycles	Krafträder	Y	
+CP07120	Motor cycles	Motocycles	Krafträder	Y	
+CP0713	Bicycles	Bicyclettes	Fahrräder	Y	
+CP07130	Bicycles	Bicyclettes	Fahrräder	Y	
+CP0714	Animal drawn vehicles	Véhicules à traction animale	Gespannfahrzeuge	Y	
+CP07140	Animal drawn vehicles	Véhicules à traction animale	Gespannfahrzeuge	Y	
+CP072	Operation of personal transport equipment	Utilisation de véhicules personnels	Betrieb von privaten Verkehrsmitteln	Y	
+CP0721	Spare parts and accessories for personal transport equipment	Pièces de rechange et accessoires pour véhicules personnels	Ersatzteile und Zubehör für private Verkehrsmittel	Y	
+CP07211	Tyres	Pneus	Reifen	Y	
+CP07211A	Summer tyres (4 tyres)	Pneumatiques d'été (4 pneus)	Sommerreifen (4 Reifen)	Y	
+CP07211B	Winter tyres (4 tyres)	Pneumatiques d' hiver (4 pneus)	Winterreifen (4 Reifen)	Y	
+CP07212	Spare parts for personal transport equipment	Pièces de rechange pour véhicules personnels	Zubehör für private Verkehrsmittel	Y	
+CP07212A	Car battery (1 piece)	Batterie de voiture (1 pièce)	Autobatterie (1 Stück)	Y	
+CP07213	Accessories for personal transport equipment	Accessoires pour véhicules personnels	Zubehör für private Verkehrsmittel	Y	
+CP0722	Fuels and lubricants for personal transport equipment	Carburants et lubrifiants pour véhicules personnels	Kraft- und Schmierstoffe	Y	
+CP07221	Diesel	Gazole	Diesel	Y	
+CP07222	Petrol	Essence	Benzin	Y	
+CP07223	Other fuels for personal transport equipment	Autres caburants pour véhicules personnels	Sonstige Kraftstoffe für private Verkehrsmittel	Y	
+CP07224	Lubricants	Lubrifiants	Schmierstoffe	Y	
+CP0723	Maintenance and repair of personal transport equipment	Entretien et réparation de véhicules personnels	Instandhaltung und Reparatur	Y	
+CP07230	Maintenance and repair of personal transport equipment	Entretien et réparation de véhicules personnels	Instandhaltung und Reparatur	Y	
+CP07230A	Replacement of brake pads (1 hour)	Remplacement de plaquettes de freins (1 heure)	Austausch der Bremsbeläge (1 Stunde)	Y	
+CP07230B	Change of oil (1 service)	Vidange d' huile (1 service)	Ölwechsel (1 Dienstleistung)	Y	
+CP07230C	Car wash (1 service)	Lavage de voiture (1 service)	Autowäsche (1 Dienstleistung)	Y	
+CP0724	Other services in respect of personal transport equipment	Services divers liés à des véhicules personnels	Sonstige Dienstleistungen an privaten Verkehrsmittel	Y	
+CP07241	Hire of garages, parking spaces and personal transport equipment	Location de garages, de places de stationnement et de véhicules personnels	Vermietung von Garagen, Stellplätzen und privaten Verkehrsmittlen	Y	
+CP07241A	Car hire (7 days)	Location de voitures (7 jours)	Mietwagen (7 Tagen)	Y	
+CP07242	Toll facilities and parking meters	Péage et parcmètres	Mauteinrichtungen und Parkuhren	Y	
+CP07243	Driving lessons, tests, licences and road worthiness tests	Leçons de conduite, épreuves de conduite, permis de conduire et contrôle technique automobile	Fahrstunden, Prüfungen, Lizenzen und Verkehrstauglichkeitstests	Y	
+CP073_X_0733_0734	Transport services except passenger transport by air, sea and inland waterway	Services de transport sauf le transport de voyageurs par air, mer et voies navigables intérieures	Verkehrsleistungen ohne Luftpersonenverkehr, Personenverkehr in See- und Binnenschiffahrt	Y	
+CP073	Transport services	Services de transport	Verkehrsleistungen	Y	
+CP0731	Passenger transport by railway	Transport de voyageurs par chemin de fer	Schienenpersonenverkehr	Y	
+CP07311	Passenger transport by train	Transport de voyageurs par train	Eisenbahn-Personenverkehr	Y	
+CP07311A	Rail travel, single ticket (1 ticket)	Voyage en train, aller simple (1 ticket)	Bahnreisen, einfache Fahrt (1 Einzelfahrschein)	Y	
+CP07312	Passenger transport by underground and tram	Transport de voyageurs par métro et tramway	Personenverkehr in U-Bahn und Straßenbahn	Y	
+CP0732	Passenger transport by road	Transport de voyageurs par route	Straßenpersonenverkehr	Y	
+CP07321	Passenger transport by bus and coach	Transport de voyageurs par autobus et autocar	Personenverkehr mit Bussen und Omnibussen	Y	
+CP07321A	Urban bus transport, single ticket (1 ticket)	Transport en bus urbain, aller simple (1 ticket)	Öffentlicher Personennahverkehr, einfache Fahrt (1 Einzelfahrschein)	Y	
+CP07322	Passenger transport by taxi and hired car with driver	Transport de voyageurs par taxi et voiture de location avec chauffeur	Personenverkehr mit Taxis und Mietwagen mit Fahrer	Y	
+CP07322A	Taxi (1 trip)	Taxi (1 trajet)	Taxi (1 Fahrt)	Y	
+CP0733	Passenger transport by air	Transport de voyageurs par air	Luftpersonenverkehr	Y	
+CP07331	Domestic flights	Vols intérieurs	Inlandsflüge	Y	
+CP07332	International flights	Vols internationaux	Internationale Flüge	Y	
+CP0734	Passenger transport by sea and inland waterway	Transport de voyageurs par mer et voies navigables intérieures	Personenverkehr in See- und Binnenschiffahrt	Y	
+CP07341	Passenger transport by sea	Transport de voyageurs par mer	Personenverkehr in der Seeschiffahrt	Y	
+CP07342	Passenger transport by inland waterway	Transport de voyageurs par voies navigables intérieures	Personenverkehr in der Binnenschiffahrt	Y	
+CP0735	Combined passenger transport	Transport combiné de voyageurs	Kombinierter Personenverkehr	Y	
+CP07350	Combined passenger transport	Transport combiné de voyageurs	Kombinierter Personenverkehr	Y	
+CP0736	Other purchased transport services	Autres services de transport	Sonstige gekaufte Verkehrsleistungen	Y	
+CP07361	Funicular, cable-car and chair-lift transport	Transports funiculaire, téléphérique et télésiège	Verkehr mit Standseilbahn, Luftseilbahn und Sessellift	Y	
+CP07362	Removal and storage services	Services de déménagement et d'entreposage	Dienstleistungen für Umzug und Lagerung	Y	
+CP07369	Other purchased transport services n.e.c.	Autres services de transport n.c.a.	Sonstige gekaufte Verkehrsdienstleistungen, n.a.g.	Y	
+CP08	Communications	Communications	Nachrichtenübermittlung	Y	
+CP081	Postal services	Services postaux	Postdienste	Y	
+CP0810	Postal services	Services postaux	Postdienste	Y	
+CP08101	Letter handling services	Services de traitement de courrier	Dienstleistungen der Briefhandhabung	Y	
+CP08109	Other postal services	Autres services postaux	Sonstige Postdienstleistungen	Y	
+CP082_083	Telephone and telefax equipment and services	Equipements de téléphone et de télécopie et services	Telefonapparate und Telefaxgeräte und Dienstleistungen	Y	
+CP082	Telephone and telefax equipment	Matériel de téléphonie et de télécopie	Telefonapparate und Telefaxgeräte	Y	
+CP0820_0830	Telephone and telefax equipment and services	Matériel et services de téléphone et de télécopie	Telefonapparate und Telefaxgeräte; Telefon- und Telefaxdienste	Y	
+CP0820	Telephone and telefax equipment	Matériel de téléphone et de télécopie	Telefonapparate und Telefaxgeräte	Y	
+CP08201	Fixed telephone equipment	Matériel de téléphonie fixe	Kabeltelefonapparate	Y	
+CP08202	Mobile telephone equipment	Matériel de téléphonie mobile	Mobiltelefonapparate	Y	
+CP08203	Other equipment of telephone and telefax equipment	Autre matériel de téléphonie et de télécopie	Sonstige Telefonapparate und Telefaxgeräte	Y	
+CP08204	Repair of telephone or telefax equipment	Réparation de matériel de téléphonie ou de télécopie	Reparatur von Telefonapparaten und Telefaxgeräten	Y	
+CP083	Telephone and telefax services	Services de téléphonie et de télécopie	Telefon- und Telefaxdienste	Y	
+CP0830	Telephone and telefax services	Services de téléphonie et de télécopie	Telefon- und Telefaxdienste	Y	
+CP08301	Wired telephone services	Services téléphonie filaire	Kabeltelefondienstleistungen	Y	
+CP08302	Wireless telephone services	Services de téléphonie sans fil	Kabellose Telefondienstleistungen	Y	
+CP08303	Internet access provision services	Services de fourniture d'accès à internet	Bereitstellung des Internetzugangs	Y	
+CP08304	Bundled telecommunication services	Services de télécommunications groupés	Gebündelte Telekommunikationsdienstleistungen	Y	
+CP08305	Other information transmission services	Autres services de transmission de l'information	Sonstige Dienstleistungen zur Informationsübertragung	Y	
+CP09	Recreation and culture	Loisirs et culture	Freizeit und Kultur	Y	
+SPRT	Sports goods and services	Biens et services sportifs	Sportausgüter und -dienstleistungen	M	
+CLT	Cultural goods and services	Biens et services culturels	Kulturgüter und -dienstleistungen	M	
+CP091	Audio-visual, photographic and information processing equipment	Matériel audiovisuel, photographique et de traitement de l'information	Geräte und Zubehör einschließlich Reparatur	Y	
+CP0911	Equipment for the reception, recording and reproduction of sound and picture	Matériel de réception, d'enregistrement et de reproduction du son et de l'image	Empfangs-, Aufzeichnungs- und Wiedergabegeräte für Ton und Bild	Y	
+CP09111	Equipment for the reception, recording and reproduction of sound	Matériel de réception, d'enregistrement et de reproduction du son	Empfangs-, Aufzeichnungs- und Wiedergabegeräte für Ton	Y	
+CP09112-09119	Equipment for the reception, recording and reproduction of sound, vision and picture	Matériel de réception, d'enregistrement et de reproduction du son, de la vision et de l'image	Geräte für Empfang, Aufnahme und Wiedergabe von Ton, Bildern und Bild	Y	
+CP09112	Equipment for the reception, recording and reproduction of sound and vision	Matériel de réception, d'enregistrement et de reproduction du son et de l'image	Empfangs-, Aufzeichnungs- und Wiedergabegeräte für Ton und Bild	Y	
+CP09112A1	Television, screen size 32'' (1 piece)	Télévision, taille de l'écran 32'' (1 pièce)	Fernseher, Bildschirmgröße 32'' (1 Stück)	Y	
+CP09112A2	Television, screen size 42'' (1 piece)	Télévision, taille de l'écran 42'' (1 pièce)	Fernseher, Bildschirmgröße 42'' (1 Stück)	Y	
+CP09112B	DVD player (1 piece)	Lecteur DVD (1 pièce)	DVD-Player (1 Stück)	Y	
+CP09112C1	DVD recorder with hard disc, 160-250 GB (1 piece)	Enregistreur DVD avec disque dur, 160-250 GB (1 pièce)	DVD-Rekorder mit Festplatte, 160-250 GB (1 Stück)	Y	
+CP09112C2	DVD recorder with hard disc, 200-300 GB (1 piece)	Enregistreur DVD avec disque dur, 200-300 GB (1 pièce)	DVD-Rekorder mit Festplatte, 200-300 GB (1 Stück)	Y	
+CP09112D	Blu-ray disc player (1 piece)	Lecteur Blu-Ray (1 pièce)	Blu-Ray-Player (1 Stück)	Y	
+CP09113	Portable sound and vision devices	Appareils audio et vidéo portables	Tragbare Ton- und Bildgeräte	Y	
+CP09113A1	Portable MP3 player, 4 GB (1 piece)	Lecteur MP3 portable, 4 GB (1 pièce)	Tragbarer MP3-Player, 4 GB (1 Stück)	Y	
+CP09113A2	Portable MP3 player, 16 GB (1 piece)	Lecteur MP3 portable, 16 GB (1 pièce)	Tragbarer MP3-Player, 16 GB (1 Stück)	Y	
+CP09119	Other equipment for the reception, recording and reproduction of sound and picture	Autre matériel de réception, d'enregistrement et de reproduction du son et de l'image	Sonstige Empfangs-, Aufzeichnungs- und Wiedergabegeräte für Ton und Bild	Y	
+CP0912	Photographic and cinematographic equipment and optical instruments	Matériel photographique et cinématographique et instruments d'optique	Foto-, Kino- und optische Geräte	Y	
+CP09121_09122	Cameras and accessories for photographic and cinematographic equipment	Appareils photo et accesoires photographiques; matériel cinématographique	Fotokameras und Zubehör fur fotografische und kinematografische Geräte	Y	
+CP09121	Cameras	Appareils photo et caméras	Fotokameras	Y	
+CP09121A	Compact digital camera, 12 Mpx (1 piece)	Appareil photo numérique compact, 12 Mpx (1 pièce)	Digitale Kompaktkamera, 12 Mpx (1 Stück)	Y	
+CP09121B	Camcorder, HDD (1 piece)	Caméscope, HDD (1 pièce)	Camcorder, HDD (1 Stück)	Y	
+CP09122	Accessories for photographic and cinematographic equipment	Accessoires pour matériel photographique et cinématographique	Zubehör fur fotografische und kinematografische Geräte	Y	
+CP09123	Optical instruments	Instruments d'optique	Optische Instrumente	Y	
+CP0913	Information processing equipment	Matériel de traitement de l'information	Datenverarbeitungsgeräte	Y	
+CP09131	Personal computers	Ordinateurs personnels	Personalcomputer	Y	
+CP09131A1	Laptop, Hard Disc 320 GB, RAM 4 GB (1 piece)	Ordinateur portable, Disque Dur 320 GB, RAM 4GB (1 pièce)	Laptop, Festplattenlaufwerk 320 GB, RAM 4 GB (1 Stück)	Y	
+CP09131A2	Laptop, Hard Disc 640 GB, RAM 4 GB (1 piece)	Ordinateur portable, Disque Dur 640 GB, RAM 4GB (1 pièce)	Laptop, Festplattenlaufwerk 640 GB, RAM 4 GB (1 Stück)	Y	
+CP09131A3	Laptop, Hard Disc 750 GB, RAM 8 GB (1 piece)	Ordinateur portable, Disque Dur 750 GB, RAM 8GB (1 pièce)	Laptop, Festplattenlaufwerk 750 GB, RAM 8 GB (1 Stück)	Y	
+CP09131A4	Laptop, Hard Disc 750 GB - 1 TB, RAM 8 GB (1 piece)	Ordinateur portable, Disque Dur 750 GB - 1 TB, RAM 8GB (1 pièce)	Laptop, Festplattenlaufwerk 750 GB - 1 TB, RAM 8 GB (1 Stück)	Y	
+CP09131B	Monitor, Full HD (1 piece)	Écran Full HD (1 pièce)	Monitor, Full HD (1 Stück)	Y	
+CP09132	Accessories for information processing equipment	Accessoires pour matériel de traitement de l'information	Zubehör für Datenverarbeitungsgeräte	Y	
+CP09133	Software	Logiciels	Software	Y	
+CP09134	Calculators and other information processing equipment	Calculatrices et autres matériel de traitement de l'information	Taschenrechner und sonstige Datenverarbeitungsgeräte	Y	
+CP0914	Recording media	Supports d'enregistrement	Aufzeichnungsmedien	Y	
+CP09141	Pre-recorded recording media	Supports d'enregistrement préenregistrés	Vorbespielte Aufzeichnungsmedien	Y	
+CP09141A	Music CD - Pop Chart (1 piece)	CD de musique, pop (1 pièce)	Musik-CD - Pop Charts (1 Stück)	Y	
+CP09141B	Movie DVD (1 piece)	DVD vidéo (1 pièce)	Spielfilm-DVD (1 Stück)	Y	
+CP09142	Unrecorded recording media	Supports d'enregistrement vierges	Leere Aufzeichnungsmedien	Y	
+CP09142A1	Blank compact disc (CD-R) (1 piece)	CD vierge (CD-R) (1 pièce)	CD-Rohling (CD-R) (1 Stück)	Y	
+CP09142A2	Blank compact disc (CD-R) (10 pieces)	CD vierge (CD-R) (10 pièces)	CD-Rohling (CD-R) (10 Stück)	Y	
+CP09142B	Blank DVDs (R), slim cases (10 pieces)	DVDs vierges (R), boîtiers (10 pièces)	DVDs-Rohling (R), Slimcases (10 Stück)	Y	
+CP09149	Other recording media	Autres supports d'enregistrement	Sonstige Aufzeichnungsmedien	Y	
+CP0915	Repair of audio-visual, photographic and information processing equipment	Réparation de matériel audiovisuel, photographique et de traitement de l'information	Reparatur von audiovisuellen, fotografischen und Datenverarbeitungsgeräten	Y	
+CP09150	Repair of audio-visual, photographic and information processing equipment	Réparation de matériel audiovisuel, photographique et de traitement de l'information	Reparatur von audiovisuellen, fotografischen und Datenverarbeitungsgeräten	Y	
+CP092	Other major durables for recreation and culture	Autres gros biens durables à fonction récréative et culturelle	Sonstige wesentliche Gebrauchsgüter für Freizeit und Kultur	Y	
+CP0921_0922	Major durables for indoor and outdoor recreation including musical instruments	Gros biens durables pour les loisirs d'intérieur et d'extérieur, y compris les instruments de musique	Wesentliche Gebrauchsgüter für die Freizeit einschließlich Musikinstrumenten	Y	
+CP0921	Major durables for outdoor recreation	Gros biens durables pour loisirs de plein air	Wesentliche Gebrauchsgüter für die Freizeit	Y	
+CP09211	Camper vans, caravans and trailers	Autocaravanes, caravanes et remorques	Wohnmobile, Wohnwagen und Anhänger	Y	
+CP09212	Aeroplanes, microlight aircraft, gliders, hang-gliders and hot-air balloons	Avions, ULM, planeurs, deltaplanes et montgolfières	Flugzeuge, Ultraleichtflugzeuge, Segelflugzeuge, Hängegleiter und Heißluftballons	Y	
+CP09213	Boats, outboard motors and fitting out of boats	Bateaux, moteurs hors-bord et équipements de bateaux	Boote, Außenbordmotoren und Ausstattung der Boote	Y	
+CP09214	Horses, ponies and accessories	Chevaux, poneys et accessoires	Pferde, Ponys und Zubehör	Y	
+CP09215	Major items for games and sport	Gros articles de jeu et de sport	Wesentliche Gebrauchsgüter für Spiel und Sport	Y	
+CP0922	Musical instruments and major durables for indoor recreation	Instruments de musique et gros biens durables destinés aux loisirs d'intérieur	Musikinstrumenten und wesentliche Gebrauchsgüter für die Freizeit	Y	
+CP09221_09429	Musical instruments (incl. rental and leasing services)	Instruments de musique (incl. services de location et leasing)	Musikinstrumente (einschließlich Vermietung und Leasing)	Y	
+CP09221	Musical instruments	Instruments de musique	Musikinstrumente	Y	
+CP09222	Major durables for indoor recreation	Gros biens durables pour loisirs d'intérieur	Größere Gebrauchsgüter zur Freizeitgestaltung im Haus	Y	
+CP0923	Maintenance and repair of other major durables for recreation and culture	Entretien et réparation d'autres gros biens durables à fonction récréative et culturelle	Instandhaltung und Reparatur von sonstigen wesentlichen Gebrauchsgütern für Freizeit und Kultur	Y	
+CP09230	Maintenance and repair of other major durables for recreation and culture	Entretien et réparation d'autres gros biens durables à fonction récréative et culturelle	Instandhaltung und Reparatur von sonstigen wesentlichen Gebrauchsgütern für Freizeit und Kultur	Y	
+CP093	Other recreational items and equipment, gardens and pets	Autres articles et matériel de loisirs, jardinage et animaux de compagnie	Sonstige Freizeitartikel und -geräte, Gartenartikel und Heimtiere	Y	
+CP0931	Games, toys and hobbies	Jeux, jouets et passe-temps	Spiel- und Hobbywaren	Y	
+CP09311	Games and hobbies	Jeux et passe-temps	Spiele und Hobbys	Y	
+CP09311A	Board game, Monopoly (1 piece)	Jeu de société, Monopoly (1 pièce)	Brettspiel, Monopoly (1 Stück)	Y	
+CP09311B	Video game, PlayStation 3 (1 piece)	Jeu vidéo, PlayStation 3 (1 pièce)	Videospiel, PlayStation 3 (1 Stück)	Y	
+CP09312	Toys and celebration articles	Jouets et articles de fête	Spielzeuge und Festartikel	Y	
+CP0932	Equipment for sport, camping and open-air recreation	Articles de sport, matériel de camping et matériel pour activités de plein air	Sportgeräte und Ausrüstungen für Camping und Erholung im Freien	Y	
+CP09321	Equipment for sport	Articles de sports	Sportgeräte	Y	
+CP09322	Equipment for camping and open-air recreation	Matériel de camping et matériel pour activités de plein air	Ausrüstungen für Camping und Erholung im Freien	Y	
+CP09323	Repair of equipment for sport, camping and open-air recreation	Réparation d'articles de sport, de matériel de camping et de matériel pour activités de plein air	Reparatur von Ausrüstungen für Camping und Erholung im Freien	Y	
+CP0933	Gardens, plants and flowers	Produits pour jardins, plantes et fleurs	Pflanzen	Y	
+CP09331	Garden products	Produits pour jardins	Gartenartikel	Y	
+CP09331A	Potting soil (10 l)	Terreau (10 l)	Blumenerde (10 l)	Y	
+CP09332	Plants and flowers	Plantes et fleurs	Pflanzen und Blumen	Y	
+CP0934_0935	Pets and related products; veterinary and other services for pets	Animaux de compagnie et produits liés, y compris les services vétérinaires et autres services pour les animaux de compagnie	Heimtiere und Heimtierartikel sowie Veterinär- und sonstige Dienstleistungen für Heimtiere	Y	
+CP0934	Pets and related products	Animaux de compagnie et produits connexes	Heimtiere und Heimtierartikel	Y	
+CP09341	Purchase of pets	Achat d'animaux de compagnie	Kauf von Heimtieren	Y	
+CP09342	Products for pets	Produits pour animaux de compagnie	Artikel für Heimtiere	Y	
+CP09342A	Dog food, meat (1 kg)	Pâtée pour chien, viande (1 kg)	Hundefutter auf Fleischbasis (1 kg)	Y	
+CP09342B	Dog food dry (1 kg)	Croquettes pour chien (1 kg)	Hundetrockenfutter (1 kg)	Y	
+CP0935	Veterinary and other services for pets	Services vétérinaires et autres pour animaux de compagnie	Veterinär und andere Dienstleistungen für Heimtiere	Y	
+CP09350	Veterinary and other services for pets	Services vétérinaires et autres pour animaux de compagnie	Veterinär und sonstige Dienstleistungen für Heimtiere	Y	
+CP094	Recreational and cultural services	Services récréatifs et culturels	Freizeit- und Kulturdienstleistungen	Y	
+CP0941	Recreational and sporting services	Services sportifs et récréatifs	Freizeit- und Sportdienstleistungen	Y	
+CP09411	Recreational and sporting services - Attendance	Services sportifs et récréatifs - Fréquentation	Freizeit- und Sportdienstleistungen - Besuche	Y	
+CP09412	Recreational and sporting services - Participation	Services sportifs et récréatifs - Participation	Freizeit- und Sportdienstleistungen - Teilnahme	Y	
+CP0942	Cultural services	Services culturels	Kulturdienstleistungen	Y	
+CP09421	Cinemas, theatres, concerts	Cinémas, théâtres, concerts	Kinos, Theater, Konzerte	Y	
+CP09421A	Cinema ticket (1 ticket)	Place de cinéma (1 ticket)	Kinokarte (1 Eintrittskarte)	Y	
+CP09422	Museums, libraries, zoological gardens	Musées, bibliothèques, jardins zoologiques	Museen, Bibliotheken und zoologische Gärten	Y	
+CP09423_09424	Television and radio licence fees, subscriptions, hire of equipment and accessories for culture	Redevances audiovisuelle, abonnements, location d'équipement et accessoires pour la culture	Fernseh- und Rundfunklizenzgebühr, Abonnements, Miete von Geräten und Zubehör für Kultur	Y	
+CP09423	Television and radio licence fees, subscriptions	Redevances pour la télévision et la radio, abonnements	Fernseh- und Rundfunklizenzgebühr, Abonnements	Y	
+CP09424	Hire of equipment and accessories for culture	Location de matériel et d'accessoires à fonction culturelle	Miete von Geräten und Zubehör für Kultur	Y	
+CP09425	Photographic services	Services photographiques	Fotografische Dienstleistungen	Y	
+CP09425A	Digital photo print service (30 photos)	Service d'impression de photos numériques (30 photos)	Digitalfotodruck (30 Fotos)	Y	
+CP09429	Other cultural services	Autres services culturels	Sonstige Kulturdienstleistungen	Y	
+CP0943	Games of chance	Jeux de hasard	Glücksspiel	Y	
+CP09430	Games of chance	Jeux de hasard	Glücksspiel	Y	
+CP095	Newspapers, books and stationery	Livres, journaux et articles de papeterie	Zeitungen, Bücher und Schreibwaren	Y	
+CP0951	Books	Livres	Bücher	Y	
+CP09511	Fiction books	Livres de fiction	Bellestristik	Y	
+CP09511A	Novel, Top 5 (1 book)	Roman, Top 5 (1 livre)	Roman, Top 5 (1 Buch)	Y	
+CP09512	Educational text books	Manuels scolaires	Schulbücher	Y	
+CP09513	Other non-fiction books	Autres livres non fictionnels	Sonstige Sachbücher	Y	
+CP09514	Binding services and E-book downloads	Services de reliure et téléchargements de livres électroniques	Einfassungsdienstleistungen und Herunterladen von E-books	Y	
+CP0952	Newspapers and periodicals	Journaux et publications périodiques	Zeitungen und Zeitschriften	Y	
+CP09521	Newspapers	Journaux	Zeitungen	Y	
+CP09521A	Daily newspaper (1 piece)	Journal quotidien (1 pièce)	Tageszeitung (1 Stück)	Y	
+CP09522	Magazines and periodicals	Revues et publications périodiques	Magazine und Zeitschriften	Y	
+CP09522A	Magazine, weekly, gossip (1 copy)	Revue hebdomadaire, people (1 exemplaire)	Wochenzeitschrift, Regenbogenpresse (1 Ausgabe)	Y	
+CP0953_0954	Miscellaneous printed matter; stationery and drawing materials	Imprimés divers et articles de papeterie et de dessin	Sonstige Druckerzeugnisse sowie Schreibwaren und Zeichenmaterial	Y	
+CP0953	Miscellaneous printed matter	Imprimés divers	Sonstige Druckerzeugnisse	Y	
+CP09530	Miscellaneous printed matter	Imprimés divers	Sonstige Druckerzeugnisse	Y	
+CP0954	Stationery and drawing materials	Papeterie et matériel de dessin	Schreibwaren und Zeichenmaterial	Y	
+CP09541	Paper products	Produits de papier	Papierartikel	Y	
+CP09541A	Paper, DIN A4 (500 sheets)	Papier, DIN A4 (500 feuilles)	Papier, DIN A4 (500 Blatt)	Y	
+CP09541B	Pencil (1 piece)	Crayon (1 pièce)	Bleistift (1 Stück)	Y	
+CP09549	Other stationery and drawing materials	Autres articles de papeterie et matériel de dessin	Sonstige Schreibwaren und Zeichenmaterial	Y	
+CP096	Package holidays	Forfaits touristiques	Pauschalreisen	Y	
+CP0960	Package holidays	Forfaits touristiques	Pauschalreisen	Y	
+CP09601	Package domestic holidays	Forfaits touristiques nationaux	Pauschalreisen im Inland	Y	
+CP09602	Package international holidays	Forfaits touristiques internationaux	Internationale Pasuchalreisen	Y	
+CP10	Education	Enseignement	Bildungswesen	Y	
+CP101-105	Pre-primary and primary, secondary, post-secondary non-tertiary, tertiary education, and education not definable by level	Enseignement préprimaire et primaire, enseignement secondaire, postsecondaire non supérieur, enseignement supérieur et enseignement ne correspondant à aucun niveau particulier	Kindergärten, Vor- und Grundschulen, weiterführende Schulen, Hochschulen, Erwachsenenbildung und sonstiger Unterricht	Y	
+CP101	Pre-primary and primary education	Éducation préprimaire et enseignement primaire	Kindergärten und Vorbildung	Y	
+CP1010-1050	Pre-primary and primary, secondary, post-secondary non-tertiary, tertiary education, and education not definable by level	Enseignement préprimaire et primaire, enseignement secondaire, postsecondaire non supérieur, enseignement supérieur et enseignement ne correspondant à aucun niveau particulier	Kindergärten, Vor- und Grundschulen, weiterführende Schulen, Hochschulen, Erwachsenenbildung und sonstiger Unterricht	Y	
+CP1010	Pre-primary and primary education	Éducation préprimaire et enseignement primaire	Kindergärten und Vorbildung	Y	
+CP10101	Pre-primary education	Éducation préprimaire	Kindergärten	Y	
+CP10102	Primary education	Enseignement primaire	Vorbildung	Y	
+CP102	Secondary education	Enseignement secondaire	Schulbildung Sekundarstufe	Y	
+CP1020	Secondary education	Enseignement secondaire	Schulbildung Sekundarstufe	Y	
+CP10200	Secondary education	Enseignement secondaire	Schulbildung Sekundarstufe	Y	
+CP103	Post-secondary non-tertiary education	Enseignement post-secondaire non supérieur	Post-sekundäre, nicht tertiäre Schulbildung	Y	
+CP1030	Post-secondary non-tertiary education	Enseignement post-secondaire non supérieur	Post-sekundäre, nicht tertiäre Schulbildung	Y	
+CP10300	Post-secondary non-tertiary education	Enseignement post-secondaire non supérieur	Post-sekundäre, nicht tertiäre Schulbildung	Y	
+CP104	Tertiary education	Enseignement supérieur	Tertiäre Schulbildung	Y	
+CP1040	Tertiary education	Enseignement supérieur	Tertiäre Schulbildung	Y	
+CP10400	Tertiary education	Enseignement supérieur	Tertiäre Schulbildung	Y	
+CP105	Education not definable by level	Enseignement non défini par niveau	Nicht einstufbare Bildung	Y	
+CP1050	Education not definable by level	Enseignement non défini par niveau	Nicht einstufbare Bildung	Y	
+CP10500	Education not definable by level	Enseignement non défini par niveau	Nicht einstufbare Bildung	Y	
+CP11	Restaurants and hotels	Restaurants et hôtels	Restaurants und Hotels	Y	
+CP111	Catering services	Services de restauration	Catering-Dienstleistungen	Y	
+CP1111	Restaurants, cafés and the like	Restaurants, cafés et établissements similaires	Restaurants, Cafés und dergleichen	Y	
+CP11111	Restaurants, cafés and dancing establishments	Restaurants, cafés et établissements de danse	Restaurants, Cafés und Tanzlokale	Y	
+CP11111A	Menu of the day (1 menu)	Menu du jour (1 menu)	Tagesgericht (1 Menü)	Y	
+CP11111B1	Red house wine, 0.12 l (1 glass)	Vin rouge ordinaire, 0.12 l (1 verre)	Roter Hauswein, 0.12 l (1 Glas)	Y	
+CP11111B2	Red house wine, 0.10 l (1 glass)	Vin rouge ordinaire, 0.10 l (1 verre)	Roter Hauswein, 0.10 l (1 Glas)	Y	
+CP11111C1	Beer (lager), domestic, 0.2-0.35 l (1 glass)	Bière blonde locale, 0.2-0.35 l (1 verre)	Lagerbier in der Gastronomie, 0.2-0.35l (1 Glas)	Y	
+CP11111C2	Beer (lager), domestic, 0.5 l (1 glass)	Bière blonde locale, 0.5 l (1 verre)	Lagerbier in der Gastronomie, 0.5l (1 Glas)	Y	
+CP11111D	Cup of coffee (1 cup)	Tasse de café (1 tasse)	Filterkaffee, Tasse (1 Tasse)	Y	
+CP11112	Fast food and take away food services	Services de restauration rapide et de restauration à emporter	Schnellimbiss und Dienstleistungen von Imbissbuden	Y	
+CP1112	Canteens	Cantines	Kantinen	Y	
+CP11120	Canteens	Cantines	Kantinen	Y	
+CP112	Accommodation services	Services d'hébergement	Beherbergungsleistungen	Y	
+CP1120	Accommodation services	Services d'hébergement	Beherbergungsdienstleistungen	Y	
+CP11201	Hotels, motels, inns and similar accommodation services	Hôtels, motels, auberges et hébergements similaires	Hotels, Motels, Pensionen und ähnliche Beherbergungsstätten	Y	
+CP11201A	Hotel weekend (1 service)	Week-end à l'hôtel (1 service)	Übernachtung in einem Hotel, Wochenende (1 Dienstleistung)	Y	
+CP11202	Holiday centres, camping sites, youth hostels and similar accommodation services	Centres de vacances, terrains de campings, auberges de jeunesse et hébergements similaires	Ferienhäuser, Campingplätze, Jugendherbergen und ähnliche Beherbergungsstätten	Y	
+CP11203	Accommodation services of other establishments	Services d'hébergement d'autres établissements	Beherbergungsdienstleistungen von sonstigen Einrichtungen	Y	
+CP12	Miscellaneous goods and services	Biens et services divers	Verschiedene Waren und Dienstleistungen	Y	
+CP121	Personal care	Soins corporels	Körperpflege	Y	
+CP1211	Hairdressing salons and personal grooming establishments	Salons de coiffure et instituts de soins et de beauté	Firseursalons und Kosmetikstudios	Y	
+CP12111	Hairdressing for men and children	Coiffure pour hommes et enfants	Friseure für Herren und Kinder	Y	
+CP12111A	Men's scissors cuts, wet (1 service)	Coupe de cheveux homme, cheveux humides (1 service)	Herren-Scherenhaarschnitt, nass (1 Dienstleistung)	Y	
+CP12112	Hairdressing for women	Coiffure pour femmes	Friseure für Damen	Y	
+CP12112A	Ladies - haircut (1 service)	Coupe de cheveux dame (1 service)	Damenhaarschnitt (1 Dienstleistung)	Y	
+CP12113	Personal grooming treatments	Soins de beauté corporels	Kosmetikbehandlungen	Y	
+CP1212_1213	Electrical appliances for personal care; other appliances, articles and products for personal care	Appareils électriques pour les soins personnels et autres appareils, articles et produits pour les soins personnels	Elektrische Geräte für die Körperpflege; sonstige Geräte, Artikel und Erzeugnisse für die Körperpflege	Y	
+CP1212	Electrical appliances for personal care	Appareils électriques pour soins corporels	Elektrische Geräte für die Körperpflege	Y	
+CP12121	Electric appliances for personal care	Appareils électriques pour soins corporels	Elektrische Geräte für die Körperpflege	Y	
+CP12121A	Electric razor (1 piece)	Rasoir électrique (1 pièce)	Elektrischer Rasierapparat (1 Stück)	Y	
+CP12121B	Electric toothbrush (1 set)	Brosse à dents électrique (1 ensemble)	Elektrische Zahnbürste (1 Set)	Y	
+CP12122	Repair of electric appliances for personal care	Réparation d'appareils electriques pour soins corporels	Reparatur von elektrischen Geräten für die Körperpflege	Y	
+CP1213	Other appliances, articles and products for personal care	Autres appareils, articles et produits pour soins corporels	Sonstige Geräte, Artikel und Erzeugnisse für die Körperpflege	Y	
+CP12131	Non-electrical appliances	Appareils non électriques	Nichtelektrische Geräte	Y	
+CP12131A	Cartridges for safety razor, men (5 cartridges)	Recharges pour rasoir de sécurité homme (5 recharges)	Rasierklingen für Männer (5 Stück)	Y	
+CP12132	Articles for personal hygiene and wellness, esoteric products and beauty products	Articles pour l'hygiène corporelle et le bien-être, produits ésotériques et produits de beauté	Artikel für die persönliche Hygiene und Wellness, esoterische Produkte und Schönheitsprodukte	Y	
+CP12132A	Shampoo (400 ml)	Shampoing (400 ml)	Haarshampoo (400 ml)	Y	
+CP12132B	Tooth paste (100 ml)	Dentifrice (100 ml)	Zahnpasta (100 ml)	Y	
+CP12132C	Toilet soap, liquid (200 ml)	Savon de toilette liquide (200 ml)	Feinseife, flüssig (200 ml)	Y	
+CP12132D	Shower gel (300 ml)	Gel douche (300 ml)	Duschgel (300 ml)	Y	
+CP12132E	Deodorant (50 ml)	Déodorant (50 ml)	Deodorant (50 ml)	Y	
+CP12132F	Tampons (10 pieces)	Tampons (10 pièces)	Tampons (10 Stück)	Y	
+CP12132G	Disposable nappies (50 pieces)	Couches-culottes jetables (50 pièces)	Einwegwindeln (50 Stück)	Y	
+CP12132H	Cotton buds (100 pieces)	Cotons-tiges (100 pièces)	Wattestäbchen (100 Stück)	Y	
+CP12132I	Manual toothbrush (1 piece)	Brosses à dents manuelles (1 pièce)	Zahnbürste, nicht elektrisch (1 Stück)	Y	
+CP12132J	Toilet paper (10 rolls)	Papier toilettes (10 rouleaux)	Toilettenpapier (10 Rollen)	Y	
+CP122_127	Prostitution; other services n.e.c.	Prostitution; autres services n.c.a.	Prostitution; sonstige Dienstleistungen a.n.g.	Y	
+CP122	Prostitution	Prostitution	Prostitution	Y	
+CP1220	Prostitution	Prostitution	Prostitution	Y	
+CP12200	Prostitution	Prostitution	Prostitution	Y	
+CP123	Personal effects n.e.c.	Effets personnels n.c.a.	Persönliche Gebrauchsgüter a.n.g.	Y	
+CP1231	Jewellery, clocks and watches	Articles de bijouterie et d'horlogerie	Schmuck, Uhren und Armbanduhren	Y	
+CP12311	Jewellery	Bijoux	Schmuck	Y	
+CP12312	Clocks and watches	Horloges et montres	Uhren und Armbanduhren	Y	
+CP12313	Repair of jewellery, clocks and watches	Réparation de bijoux, horloges et montres	Reparatur von Schmuck, Uhren und Armbanduhren	Y	
+CP1232	Other personal effects	Autres effets personnels	Sonstige persönliche Gebrauchsgüter	Y	
+CP12321	Travel goods	Articles de voyages	Reiseartikel	Y	
+CP12322	Articles for babies	Articles pour bébés	Artikel für Babys	Y	
+CP12323	Repair of other personal effects	Réparation d'autres effets personnels	Reparatur von sonstigen persönlichen Gebrauchsgüter	Y	
+CP12329	Other personal effects n.e.c.	Autres effets personnels n.c.a.	Sonstige persönliche Gebrauchsgüter, a.n.g.	Y	
+CP124	Social protection	Protection sociale	Sozialschutz	Y	
+CP1240	Social protection	Protection sociale	Sozialschutz	Y	
+CP12401	Child care services	Services de garde d'enfants	Dienstleistungen der Kinderbetreuung	Y	
+CP12402	Retirement homes for elderly persons and residences for disabled persons	Maisons de retraite pour personnes âgées et foyers pour handicapés	Seniorenheime für ältere Menschen und Wohnungen für Behinderte	Y	
+CP12403	Services to maintain people in their private homes	Services visant à maintenir les personnes à leur domicile privé	Betreuungsdienstleistungen für Privatpersonen	Y	
+CP12404	Counselling	Services de conseil	Beratung	Y	
+CP125	Insurance	Assurance	Versicherungen	Y	
+CP1251	Life insurance	Assurance-vie	Lebensversicherung	Y	
+CP12510	Life insurance	Assurance-vie	Lebensversicherung	Y	
+CP1252	Insurance connected with the dwelling	Assurance habitation	Versicherungen im Zusammenhang mit der Wohnung	Y	
+CP12520	Insurance connected with the dwelling	Assurance habitation	Versicherungen im Zusammenhang mit der Wohnung	Y	
+CP1253	Insurance connected with health	Assurance santé	Versicherungen im Zusammenhang mit dem Gesundheit	Y	
+CP12531	Public insurance connected with health	Assurance publique liée à la santé	Öffentliche Versicherung im Zusammenhang mit der Gesundheit	Y	
+CP12532	Private insurance connected with health	Assurance privée liée à la santé	Private Versicherung im Zusammenhang mit der Gesundheit	Y	
+CP1254	Insurance connected with transport	Assurance liée au transport	Versicherungen im Zusammenhang mit dem Verkehr	Y	
+CP12541	Motor vehicle insurance	Assurance véhicule à moteur	Kraftfahrzeugversicherung	Y	
+CP12542	Travel insurance	Assurance voyage	Reiseversicherung	Y	
+CP1255	Other insurance	Autres assurances	Sonstige Versicherungen	Y	
+CP12550	Other insurance	Autres assurances	Sonstige Versicherungen	Y	
+CP126	Financial services n.e.c.	Services financiers n.c.a.	Finanzdienstleistungen, a.n.g.	Y	
+CP1261	FISIM	SIFIM	FISIM	Y	
+CP12610	FISIM	SIFIM	FISIM	Y	
+CP1262	Other financial services n.e.c.	Autres services financiers n.c.a.	Sonstige Finanzdienstleistungen, a.n.g.	Y	
+CP12621	Charges by banks and post offices	Frais facturés par les banques et les bureaux de poste	Gebühren von Banken und Postämtern	Y	
+CP12622	Fees and service charges of brokers, investment counsellors	Commissions et rémunération des services de courtiers et de conseillers en placement	Gebühren und Leistungsentgelte für Börsenmakler, Anlageberater	Y	
+CP127	Other services n.e.c.	Autres services n.c.a.	Sonstige Dienstleistungen a.n.g	Y	
+CP1270	Other services n.e.c.	Autres services n.c.a.	Sonstige Dienstleistungen a.n.g.	Y	
+CP12701	Administrative fees	Frais administratifs	Verwaltungsgebühren	Y	
+CP12702	Legal services and accountancy	Services juridiques et de comptabilité	Juristische Dienstleistungen und Buchhaltung	Y	
+CP12703	Funeral services	Services funéraires	Bestattungsdienstleistungen	Y	
+CP12704	Other fees and services	Autres frais et services	Sonstige Gebühren und Dienstleistungen	Y	
+GD	Goods (overall index excluding services)	Biens (indice global excluant les services)	Waren (Gesamtindex ohne Dienstleistungen)	Y	
+FOOD	Food including alcohol and tobacco	Aliments incluant l'alcool et le tabac	Lebensmittel einschließlich Alkohol und Tabak	Y	
+FOOD_P	Processed food including alcohol and tobacco	Aliments transformés incluant l'alcool et le tabac	Bearbeitete Lebensmittel einschließlich Alkohol und Tabak	Y	
+FOOD_P_X_ALC_TBC	Processed food excluding alcohol and tobacco	Aliments transformés excluant l'alcool et le tabac	Bearbeitete Lebensmittel ohne Alkohol und Tabak	Y	
+FOOD_NP	Unprocessed food	Aliments non transformés	Unbearbeitete Lebensmittel	Y	
+FOOD_S	Seasonal food	Aliments saisonniers	Saisonale Lebensmittel	Y	
+IGD	Industrial goods	Biens industriels	Industrielle Güter	Y	
+IGD_NNRG	Non-energy industrial goods	Biens industriels non-énergétiques	Industrielle nichtenergetische Güter	Y	
+IGD_NNRG_D	Non-energy industrial goods, durables only	Biens industriels non-énergétiques, durables uniquement	Industrielle nichtenergetische Güter, nur Gebrauchsgüter	Y	
+IGD_NNRG_SD	Non-energy industrial goods, semi-durables only	Biens industriels non-énergétiques, semi-durables uniquement	Industrielle nichtenergetische Güter, nur Halbgebrauchsgüter	Y	
+IGD_NNRG_ND	Non-energy industrial goods, non-durables only	Biens industriels non-énergétiques, non-durables uniquement	Industrielle nichtenergetische Güter, nur Verbrauchsgüter	Y	
+NRG	Energy	Energie	Energie	Y	
+ELC_GAS	Electricity, gas, solid fuels and heat energy	Electricité, gaz, combustibles solides et énergie thermique	Elektrizität, Gas, feste Brennstoffe und Wärmeenergie	Y	
+FUEL	Liquid fuels and fuels and lubricants for personal transport equipment	Combustibles liquides et carburants et lubrifiants pour les véhicules personnels	Flüssige Brennstoffe, Kraft- und Schmierstoffe für private Verkehrsmittel	Y	
+SERV_ESS	Essential services (excluding financial services)	Services essentiels (excluant les services financiers)	Grundlegende Dienstleistungen (ohne Finanzdienstleistungen)	Y	CP044 - CP0444 + CP045 + CP073 - CP0733- CP0734 + CP083
+SERV	Services (overall index excluding goods)	Services (indice global excluant les biens)	Dienstleistungen (Gesamtindex ohne Waren)	Y	
+SERV_COM	Services related to communication	Services relatifs à la communication	Dienstleistungen im Zusammenhang mit Nachrichtenübermittlung	Y	
+SERV_HOUS	Services related to housing	Services relatifs au logement	Dienstleistungen im Zusammenhang mit der Wohnung	Y	
+SERV_MSC	Services - miscellaneous	Services - divers	Dienstleistungen - Verschiedenes	Y	
+SERV_REC	Services related to recreation, including repairs and personal care	Services relatifs aux loisirs, incluant les réparations et les soins personnels	Dienstleistungen im Zusammenhang mit Freizeit inklusive Reparaturen und Körperpflege	Y	
+SERV_REC_X_HOA	Services related to recreation and personal care, excluding package holidays and accommodation	Services relatifs aux loisirs et soins personnels, excluant les vacances à forfait et l'hébergement	Dienstleistungen im Zusammenhang mit Freizeit inklusive Reparaturen und Körperpflege, aber ohne Pauschalreisen und Beherbergung	Y	
+SERV_REC_HOA	Services related to package holidays and accommodation	Services relatifs aux forfaits touristiques et hébergement	Dienstleistungen im Zusammenhang mit Pauschalreisen und Beherbergung	Y	
+SERV_TRA	Services related to transport	Services relatifs aux transports	Dienstleistungen im Zusammenhang mit Verkehr	Y	
+NRG_FOOD_NP	Energy and unprocessed food	Energie et aliments non transformés	Energie und unbearbeitete Lebensmittel	Y	
+NRG_FOOD_S	Energy and seasonal food	Energie et aliments saisonniers	Energie und saisonale Lebensmittel	Y	
+EDUC_HLTH_SPR	Education, health and social protection	Enseignement, santé et protection sociale	Erziehung und Unterricht, Gesundheitspflege und Sozialschutz	Y	
+FROOPP	Frequent out-of-pocket purchases	Achats directs fréquents	Häufige Direktkäufe	Y	
+TOT_X_FOOD_S	Overall index excluding seasonal food	Indice global excluant les aliments saisonniers	Gesamtindex ohne saisonale Lebensmittel	Y	
+TOT_X_ALC_TBC	Overall index excluding alcohol and tobacco	Indice global excluant l'alcool et le tabac	Gesamtindex ohne Alkohol und Tabak	Y	
+TOT_X_TBC	Overall index excluding tobacco	Indice global excluant le tabac	Gesamtindex ohne Tabak	Y	
+TOT_X_NRG	Overall index excluding energy	Indice global excluant l'énergie	Gesamtindex ohne Energie	Y	
+TOT_X_NRG_FOOD	Overall index excluding energy, food, alcohol and tobacco	Indice global excluant l'énergie, les aliments, l'alcool et le tabac	Gesamtindex ohne Energie, Lebensmittel, Alkohol und Tabak	Y	
+TOT_X_NRG_FOOD_NP	Overall index excluding energy and unprocessed food	Indice global excluant l'énergie et les aliments non transformés	Gesamtindex ohne Energie und unbearbeitete Lebensmittel	Y	
+TOT_X_NRG_FOOD_S	Overall index excluding energy and seasonal food	Indice global excluant l'énergie et les aliments saisonniers	Gesamtindex ohne Energie und saisonale Lebensmittel	Y	
+TOT_X_FUEL	Overall index excluding liquid fuels and lubricants for personal transport equipment	Indice global excluant les combustibles liquides et lubrifiants pour les véhicules personnels	Gesamtindex ohne flüssige Brennstoffe, Kraft- und Schmierstoffe für private Verkehrsmittel	Y	
+TOT_X_HOUS	Overall index excluding housing, water, electricity, gas and other fuels	Indice global excluant le logement, l'eau, l'électricité, le gaz et autres combustibles	Gesamtindex ohne Wohnung, Wasser, Elektrizität, Gas und sonstige Brennstoffe	Y	
+TOT_X_EDUC_HLTH_SPR	Overall index excluding education, health and social protection	Indice global excluant l'enseignement, la santé et la protection sociale	Gesamtindex ohne Erziehung und Unterricht, Gesundheitspflege und Sozialschutz	Y	
+TOT_X_FROOPP	Overall index excluding frequent out-of-pocket purchases	Indice global excluant les achats directs fréquents	Gesamtindex ohne Häufige Direktkäufe	Y	
+AP	Administered prices	Prix administrés	Administrierte Preise	Y	
+AP_NRG	Administered prices, energy	Prix administrés, énergie	Administrierte Preise, Energie	Y	
+AP_NNRG	Administered prices, non-energy	Prix administrés, hors énergie	Administrierte Preise, außer Energie	Y	
+APF	Fully administered prices	Prix administrés directs	Direkt administrierte Preise	Y	
+APM	Mainly administered prices	Prix essentiellement administrés	Teiladministrierte Preise	Y	
+TOT_X_AP	Overall index excluding administered prices	Indice global excluant les prix administrés	Gesamtindex ohne administrierte Preise	Y	
+TOT_X_APF	Overall index excluding fully administered prices	Indice global excluant les prix administrés directs	Gesamtindex ohne direkt administrierte Preise	Y	
+TOT_X_APM	Overall index excluding mainly administered prices	Indice global excluant les prix essentiellement administrés	Gesamtindex ohne teiladministrierte Preise	Y	
+EQ_SOUND	Equipment for the reception, recording and reproduction of sound (including earphones)	Appareils de réception, d'enregistrement et de reproduction du son (incluant les écouteurs)	Empfangs-, Aufzeichnungs- und Wiedergabegeräte für Ton (einschließlich Kopfhörer)	M	
+CI_TH_CO	Cinemas, theatres, concerts (excluding services of musicians, clowns, performers for private entertainments)	Cinémas, théâtres,concerts (hors services de musiciens, clowns, artistes pour spectacles privés)	Kinos, Theater, Konzerte (ohne Leistungen von Musikern, Clowns und Privatunterhaltern)	M	
+PERF_PHOT	Services of musicians, clowns, performers for private entertainers, and photographers	Services de musiciens, clowns, artistes pour spectacles privés et photographes	Leistungen von Musikern, Clowns, Privatunterhaltern und Fotografen	M	
