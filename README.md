@@ -1,3 +1,21 @@
+# Structure
+Les fichiers data doivent être dans l’adresse perso du cremi \
+En index: les pays (et éventuellement d’autres colonnes)\
+En colonne: les dates en années et mois au format datetime de pandas, du 1er janvier 2013 au 1er janvier 2023.
+
+# Modèle
+Corrélation 
+- entre les prix des actions et les différentes données. Voir le max de corrélation entre différents actifs.
+
+Taux de variation
+- Evolution des devises par rapport aux dollars
+Machine learning ?
+
+# Analyse
+Graphiques, dont au moins une carte\
+Tenter une prévision
+
+
 # ProjetOutInfo
 
 # Source de données:
